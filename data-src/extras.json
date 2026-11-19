@@ -1,0 +1,1165 @@
+[
+ {
+  "id": "x_burpee",
+  "nome": "Burpee",
+  "nomeEn": "Burpee",
+  "categoria": "hiit",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "triceps",
+   "abdominals",
+   "glutes",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, agache e apoie as mãos no chão à frente dos pés.",
+   "Jogue os pés para trás até a posição de prancha alta, com o corpo alinhado.",
+   "Faça uma flexão de braço, levando o peito perto do chão.",
+   "Salte os pés de volta para perto das mãos.",
+   "Levante-se e salte com os braços estendidos acima da cabeça."
+  ],
+  "dica": "Erro comum: deixar o quadril cair na prancha; para facilitar, faça o burpee sem flexão e sem salto."
+ },
+ {
+  "id": "x_burpee_sem_salto",
+  "nome": "Burpee sem salto",
+  "nomeEn": "Step-Back Burpee",
+  "categoria": "hiit",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "triceps",
+   "abdominals",
+   "glutes"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, agache e apoie as mãos no chão.",
+   "Leve um pé de cada vez para trás até a prancha alta.",
+   "Volte um pé de cada vez para perto das mãos.",
+   "Suba em pé, com o peito aberto e o abdômen firme."
+  ],
+  "dica": "Mantenha as costas retas ao agachar; o ritmo constante vale mais que a velocidade."
+ },
+ {
+  "id": "x_polichinelo",
+  "nome": "Polichinelo",
+  "nomeEn": "Jumping Jack",
+  "categoria": "cardio",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "calves",
+   "shoulders"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "glutes",
+   "adductors",
+   "abductors"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Fique em pé com os pés juntos e os braços ao lado do corpo.",
+   "Salte abrindo as pernas na largura dos ombros e levando os braços acima da cabeça.",
+   "Salte novamente, voltando à posição inicial.",
+   "Aterrisse com os joelhos levemente flexionados e mantenha o ritmo constante."
+  ],
+  "dica": "Aterrisse suave, sem bater os calcanhares; se houver impacto demais, faça a versão sem salto, tocando um pé de cada vez ao lado."
+ },
+ {
+  "id": "x_corrida_estacionaria",
+  "nome": "Corrida estacionária",
+  "nomeEn": "Running in Place",
+  "categoria": "cardio",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "calves"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "glutes",
+   "abdominals"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Fique em pé, com a postura ereta e o abdômen contraído.",
+   "Corra no lugar alternando as pernas, com os braços em movimento oposto ao das pernas.",
+   "Pise com a parte da frente do pé, de forma leve.",
+   "Mantenha o ritmo constante pelo tempo definido."
+  ],
+  "dica": "Evite correr com o tronco inclinado para trás; olhe para a frente e relaxe os ombros."
+ },
+ {
+  "id": "x_skipping_alto",
+  "nome": "Skipping alto",
+  "nomeEn": "High Knees",
+  "categoria": "hiit",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "calves",
+   "glutes"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Fique em pé, com os pés na largura do quadril.",
+   "Corra no lugar elevando os joelhos até a altura do quadril.",
+   "Movimente os braços em oposição às pernas.",
+   "Apoie apenas a parte da frente dos pés e mantenha o tronco ereto."
+  ],
+  "dica": "Erro comum: inclinar o tronco para trás; reduza a altura dos joelhos para manter a postura."
+ },
+ {
+  "id": "x_anfersen",
+  "nome": "Anfersen (chute no glúteo)",
+  "nomeEn": "Butt Kicks",
+  "categoria": "cardio",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "hamstrings",
+   "calves"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "glutes"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Fique em pé, com a postura ereta.",
+   "Corra no lugar levando os calcanhares em direção aos glúteos.",
+   "Mantenha os joelhos apontando para baixo e o tronco reto.",
+   "Movimente os braços de forma alternada, em ritmo constante."
+  ],
+  "dica": "Não deixe os joelhos subirem à frente; o movimento vem da flexão do joelho."
+ },
+ {
+  "id": "x_seal_jack",
+  "nome": "Polichinelo cruzado (seal jack)",
+  "nomeEn": "Seal Jack",
+  "categoria": "cardio",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "shoulders",
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "calves",
+   "quadriceps",
+   "adductors",
+   "abductors"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros e os braços estendidos à frente na altura do peito.",
+   "Salte abrindo as pernas e levando os braços para trás, na linha dos ombros.",
+   "Salte de novo, fechando as pernas e levando os braços à frente, cruzando-os.",
+   "Mantenha os cotovelos levemente flexionados e o abdômen firme."
+  ],
+  "dica": "Erro comum: arquear a lombar ao abrir os braços; mantenha o abdômen contraído."
+ },
+ {
+  "id": "x_prancha_alta",
+  "nome": "Prancha alta",
+  "nomeEn": "High Plank",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "chest",
+   "triceps",
+   "glutes",
+   "quadriceps"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Apoie as mãos no chão sob os ombros, com os braços estendidos.",
+   "Estenda as pernas para trás, apoiadas nas pontas dos pés.",
+   "Alinhe cabeça, tronco e quadril em uma linha reta.",
+   "Contraia abdômen e glúteos e respire de forma contínua."
+  ],
+  "dica": "Erro comum: o quadril subir ou cair; se for difícil, apoie os joelhos no chão."
+ },
+ {
+  "id": "x_prancha_toque_ombro",
+  "nome": "Prancha com toque no ombro",
+  "nomeEn": "Plank Shoulder Taps",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals",
+   "shoulders"
+  ],
+  "musculosSecundarios": [
+   "chest",
+   "triceps",
+   "abductors"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Assuma a prancha alta com os pés um pouco afastados para dar estabilidade.",
+   "Tire uma mão do chão e toque o ombro oposto.",
+   "Devolva a mão ao chão e repita com o outro lado.",
+   "Mantenha o quadril parado, sem girar de um lado para o outro."
+  ],
+  "dica": "Afaste mais os pés para ganhar equilíbrio; o quadril não deve balançar."
+ },
+ {
+  "id": "x_prancha_elevacao_perna",
+  "nome": "Prancha com elevação de perna",
+  "nomeEn": "Plank Leg Lift",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "lower back",
+   "shoulders",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Assuma a prancha, apoiado nos antebraços ou nas mãos.",
+   "Contraia o abdômen e eleve uma perna estendida até a altura do quadril.",
+   "Segure por um instante e volte ao chão com controle.",
+   "Alterne as pernas sem deixar o quadril girar ou subir."
+  ],
+  "dica": "Erro comum: arquear a lombar ao subir a perna; eleve só até onde o corpo se mantiver alinhado."
+ },
+ {
+  "id": "x_prancha_dinamica",
+  "nome": "Prancha dinâmica (sobe e desce)",
+  "nomeEn": "Up-Down Plank",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals",
+   "triceps"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "chest"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Comece na prancha com os antebraços apoiados no chão.",
+   "Apoie uma mão por vez no chão, estendendo os braços até a prancha alta.",
+   "Volte um antebraço por vez para a prancha baixa.",
+   "Alterne o braço que inicia o movimento e mantenha o quadril estável."
+  ],
+  "dica": "Afaste os pés para reduzir o balanço do quadril."
+ },
+ {
+  "id": "x_prancha_lateral_rotacao",
+  "nome": "Prancha lateral com rotação",
+  "nomeEn": "Side Plank Rotation",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "middle back",
+   "abductors"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Faça a prancha lateral, apoiado em uma mão ou antebraço, com o outro braço estendido para cima.",
+   "Passe o braço de cima por baixo do corpo, girando o tronco.",
+   "Volte abrindo o peito e estendendo o braço para o alto.",
+   "Mantenha o quadril elevado durante todo o movimento."
+  ],
+  "dica": "Para facilitar, apoie o joelho de baixo no chão."
+ },
+ {
+  "id": "x_hollow_hold",
+  "nome": "Hollow hold",
+  "nomeEn": "Hollow Body Hold",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "adductors"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Deite de barriga para cima, com os braços estendidos atrás da cabeça.",
+   "Contraia o abdômen e cole a lombar no chão.",
+   "Eleve ombros e pernas esticadas alguns centímetros do chão.",
+   "Mantenha a posição em forma de banana, respirando de forma curta."
+  ],
+  "dica": "Se a lombar descolar do chão, dobre os joelhos ou aproxime os braços do corpo."
+ },
+ {
+  "id": "x_v_up",
+  "nome": "Abdominal V-up",
+  "nomeEn": "V-Up",
+  "categoria": "calistenia",
+  "nivel": "avancado",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "adductors"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Deite de barriga para cima, com braços estendidos acima da cabeça e pernas esticadas.",
+   "Eleve ao mesmo tempo o tronco e as pernas, formando um V.",
+   "Toque as mãos perto dos pés no topo do movimento.",
+   "Desça com controle, sem deixar os pés ou as costas caírem de uma vez."
+  ],
+  "dica": "Erro comum: usar impulso; faça a versão com joelhos dobrados (tuck-up) para começar."
+ },
+ {
+  "id": "x_abdominal_bicicleta",
+  "nome": "Abdominal bicicleta",
+  "nomeEn": "Bicycle Crunch",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "quadriceps"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Deite de barriga para cima, com as mãos atrás da cabeça e as pernas elevadas.",
+   "Leve um cotovelo em direção ao joelho oposto, estendendo a outra perna.",
+   "Alterne os lados em movimento contínuo de pedalada.",
+   "Gire o tronco, não apenas os cotovelos, e não puxe o pescoço."
+  ],
+  "dica": "Movimento lento e controlado funciona melhor do que rápido."
+ },
+ {
+  "id": "x_toe_touch",
+  "nome": "Abdominal toque nos pés",
+  "nomeEn": "Toe Touch Crunch",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "quadriceps"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Deite de barriga para cima, com as pernas elevadas e estendidas para o teto.",
+   "Estenda os braços para cima.",
+   "Contraia o abdômen e suba o tronco, tentando tocar os pés.",
+   "Desça devagar, sem relaxar o abdômen."
+  ],
+  "dica": "Se não alcançar os pés, dobre levemente os joelhos; não puxe o pescoço com as mãos."
+ },
+ {
+  "id": "x_flexao_parede",
+  "nome": "Flexão na parede",
+  "nomeEn": "Wall Push-Up",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "triceps"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Fique de frente para a parede e apoie as mãos na altura do peito, na largura dos ombros.",
+   "Afaste os pés e mantenha o corpo em linha reta.",
+   "Flexione os cotovelos, aproximando o peito da parede.",
+   "Empurre a parede e volte à posição inicial."
+  ],
+  "dica": "Quanto mais afastados os pés, mais difícil; depois evolua para flexão inclinada em banco."
+ },
+ {
+  "id": "x_flexao_joelhos",
+  "nome": "Flexão com joelhos apoiados",
+  "nomeEn": "Knee Push-Up",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "triceps",
+   "abdominals"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Apoie as mãos no chão, um pouco mais largas que os ombros, e os joelhos no colchonete.",
+   "Alinhe a cabeça, o tronco e o quadril.",
+   "Flexione os cotovelos até o peito chegar perto do chão.",
+   "Estenda os braços, mantendo o abdômen contraído."
+  ],
+  "dica": "Erro comum: empinar o quadril; o corpo deve formar uma linha dos joelhos à cabeça."
+ },
+ {
+  "id": "x_flexao_diamante",
+  "nome": "Flexão diamante",
+  "nomeEn": "Diamond Push-Up",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "triceps"
+  ],
+  "musculosSecundarios": [
+   "chest",
+   "shoulders"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Apoie as mãos juntas sob o peito, formando um losango com polegares e indicadores.",
+   "Mantenha o corpo em linha reta, como na prancha alta.",
+   "Flexione os cotovelos, mantendo-os próximos ao corpo.",
+   "Empurre o chão até estender os braços."
+  ],
+  "dica": "Se o punho incomodar, afaste um pouco as mãos ou apoie os joelhos."
+ },
+ {
+  "id": "x_flexao_arqueiro",
+  "nome": "Flexão arqueiro",
+  "nomeEn": "Archer Push-Up",
+  "categoria": "calistenia",
+  "nivel": "avancado",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "triceps",
+   "shoulders",
+   "abdominals"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Apoie as mãos bem afastadas, bem mais largas que os ombros.",
+   "Flexione um cotovelo e leve o tronco para esse lado, mantendo o outro braço estendido.",
+   "Empurre o chão e volte ao centro.",
+   "Alterne os lados com o corpo alinhado."
+  ],
+  "dica": "Comece com amplitude pequena; apoiar os joelhos ou usar uma mão elevada facilita."
+ },
+ {
+  "id": "x_flexao_pike",
+  "nome": "Flexão pike",
+  "nomeEn": "Pike Push-Up",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "shoulders"
+  ],
+  "musculosSecundarios": [
+   "triceps",
+   "chest",
+   "traps"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Apoie as mãos no chão e eleve o quadril, formando um V invertido.",
+   "Mantenha as pernas quase estendidas e a cabeça entre os braços.",
+   "Flexione os cotovelos, aproximando a cabeça do chão.",
+   "Empurre o chão até estender os braços."
+  ],
+  "dica": "Aproxime os pés das mãos para aumentar a carga nos ombros; para facilitar, afaste-os."
+ },
+ {
+  "id": "x_flexao_hindu",
+  "nome": "Flexão hindu",
+  "nomeEn": "Hindu Push-Up",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "shoulders",
+   "chest"
+  ],
+  "musculosSecundarios": [
+   "triceps",
+   "abdominals",
+   "lower back"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Comece em V invertido, com as mãos e os pés no chão e o quadril alto.",
+   "Flexione os cotovelos e deslize o peito para baixo e para a frente, rente ao chão.",
+   "Estenda os braços, arqueando as costas e olhando para a frente.",
+   "Reverta o movimento, voltando ao V invertido."
+  ],
+  "dica": "Respeite o limite da lombar ao arquear; a amplitude pode ser reduzida."
+ },
+ {
+  "id": "x_agachamento_bulgaro",
+  "nome": "Agachamento búlgaro",
+  "nomeEn": "Bulgarian Split Squat",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "banco_cadeira",
+  "musculosPrincipais": [
+   "quadriceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "adductors"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Apoie o peito do pé de trás em uma cadeira ou banco, atrás de você.",
+   "Posicione o pé da frente a um passo largo, com o tronco ereto.",
+   "Flexione os joelhos até a coxa da frente ficar paralela ao chão.",
+   "Empurre o pé da frente no chão para subir; troque de perna ao fim da série."
+  ],
+  "dica": "O joelho da frente não deve ultrapassar muito a ponta do pé; ajuste a distância antes da série."
+ },
+ {
+  "id": "x_agachamento_sumo",
+  "nome": "Agachamento sumô",
+  "nomeEn": "Sumo Squat",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Fique em pé com os pés bem afastados e as pontas voltadas para fora.",
+   "Junte as mãos à frente do peito.",
+   "Agache mantendo o tronco ereto e os joelhos alinhados com os pés.",
+   "Empurre o chão para subir, contraindo os glúteos."
+  ],
+  "dica": "Erro comum: joelhos fechando para dentro; empurre-os na direção dos pés."
+ },
+ {
+  "id": "x_cadeira_parede",
+  "nome": "Cadeira na parede (wall sit)",
+  "nomeEn": "Wall Sit",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps"
+  ],
+  "musculosSecundarios": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Encoste as costas na parede e afaste os pés à frente.",
+   "Deslize até os joelhos formarem 90 graus, com as coxas paralelas ao chão.",
+   "Mantenha os joelhos sobre os tornozelos e as costas coladas na parede.",
+   "Respire normalmente e segure o tempo definido."
+  ],
+  "dica": "Não apoie as mãos nas coxas; para facilitar, suba um pouco o quadril."
+ },
+ {
+  "id": "x_afundo_lateral",
+  "nome": "Afundo lateral",
+  "nomeEn": "Lateral Lunge",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, com os pés na largura do quadril.",
+   "Dê um passo largo para o lado e flexione esse joelho, levando o quadril para trás.",
+   "Mantenha a outra perna estendida e os dois pés apoiados no chão.",
+   "Empurre o chão para voltar ao centro e alterne os lados."
+  ],
+  "dica": "Mantenha o tronco ereto e o calcanhar da perna que flexiona no chão."
+ },
+ {
+  "id": "x_afundo_cruzado",
+  "nome": "Afundo cruzado (curtsy)",
+  "nomeEn": "Curtsy Lunge",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "glutes",
+   "quadriceps"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "abductors",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, com os pés na largura do quadril.",
+   "Leve uma perna para trás e para o lado oposto, cruzando-a atrás da outra.",
+   "Flexione os dois joelhos até a coxa da frente ficar quase paralela ao chão.",
+   "Suba empurrando o pé da frente e alterne os lados."
+  ],
+  "dica": "Mantenha o joelho da frente alinhado com o pé e o quadril estável."
+ },
+ {
+  "id": "x_cossack_squat",
+  "nome": "Cossack squat",
+  "nomeEn": "Cossack Squat",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "adductors"
+  ],
+  "musculosSecundarios": [
+   "glutes",
+   "hamstrings"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Fique em pé com os pés bem afastados, mais que a largura dos ombros.",
+   "Transfira o peso para uma perna e agache sobre ela.",
+   "Mantenha a outra perna estendida, com o pé apoiado no chão ou a ponta voltada para cima.",
+   "Volte ao centro e alterne os lados."
+  ],
+  "dica": "Mantenha o peito aberto e o calcanhar da perna que flexiona no chão; reduza a amplitude se faltar mobilidade."
+ },
+ {
+  "id": "x_pistol_assistido",
+  "nome": "Pistol squat assistido",
+  "nomeEn": "Assisted Pistol Squat",
+  "categoria": "calistenia",
+  "nivel": "avancado",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "abdominals",
+   "calves"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Segure em um apoio firme, como batente ou barra, e fique em uma perna.",
+   "Estenda a outra perna à frente, sem apoiá-la no chão.",
+   "Agache devagar sobre a perna de apoio, ajudando-se com as mãos.",
+   "Suba empurrando o chão, usando só o necessário de ajuda; troque de perna."
+  ],
+  "dica": "Reduza a descida com um banco atrás para sentar, se faltar força ou mobilidade."
+ },
+ {
+  "id": "x_step_up_cadeira",
+  "nome": "Step-up na cadeira",
+  "nomeEn": "Chair Step-Up",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "banco_cadeira",
+  "musculosPrincipais": [
+   "quadriceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "calves"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Fique em frente a uma cadeira estável ou degrau.",
+   "Apoie todo o pé em cima e suba empurrando com a perna da frente.",
+   "Estenda o quadril no topo, sem impulso da perna de trás.",
+   "Desça com controle e repita; troque de perna ao fim da série."
+  ],
+  "dica": "Use apenas a perna de cima para subir; apoie o pé inteiro para proteger o joelho."
+ },
+ {
+  "id": "x_elevacao_pelvica_marchando",
+  "nome": "Elevação pélvica marchando",
+  "nomeEn": "Marching Glute Bridge",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "glutes",
+   "hamstrings"
+  ],
+  "musculosSecundarios": [
+   "abdominals",
+   "lower back"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Deite de barriga para cima, com os joelhos dobrados e os pés apoiados.",
+   "Eleve o quadril até formar uma linha dos ombros aos joelhos.",
+   "Mantendo o quadril alto, levante um joelho em direção ao peito.",
+   "Devolva o pé ao chão e alterne as pernas sem deixar o quadril cair."
+  ],
+  "dica": "Erro comum: arquear a lombar; contraia o abdômen e os glúteos."
+ },
+ {
+  "id": "x_donkey_kick",
+  "nome": "Coice de glúteo (donkey kick)",
+  "nomeEn": "Donkey Kick",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "hamstrings",
+   "lower back"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em quatro apoios, com as mãos sob os ombros e os joelhos sob o quadril.",
+   "Mantenha o joelho dobrado em 90 graus e eleve uma perna, com a sola do pé voltada para o teto.",
+   "Contraia o glúteo no alto, sem arquear a lombar.",
+   "Desça com controle e repita; troque de perna."
+  ],
+  "dica": "Mantenha o quadril alinhado ao chão; o movimento nasce no glúteo, não na lombar."
+ },
+ {
+  "id": "x_hidrante",
+  "nome": "Hidrante (fire hydrant)",
+  "nomeEn": "Fire Hydrant",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "glutes",
+   "abductors"
+  ],
+  "musculosSecundarios": [],
+  "porTempo": false,
+  "instrucoes": [
+   "Em quatro apoios, com as mãos sob os ombros e os joelhos sob o quadril.",
+   "Mantendo o joelho dobrado, eleve a perna para o lado, como um cachorro no poste.",
+   "Suba até a coxa ficar paralela ao chão, sem girar o tronco.",
+   "Desça devagar e repita; troque de lado."
+  ],
+  "dica": "Evite inclinar o tronco para o outro lado; use um elástico acima dos joelhos para aumentar a carga."
+ },
+ {
+  "id": "x_panturrilha_unilateral",
+  "nome": "Panturrilha unilateral no degrau",
+  "nomeEn": "Single-Leg Calf Raise",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "banco_cadeira",
+  "musculosPrincipais": [
+   "calves"
+  ],
+  "musculosSecundarios": [],
+  "porTempo": false,
+  "instrucoes": [
+   "Fique em pé sobre a ponta de um pé na borda de um degrau, com o calcanhar para fora.",
+   "Segure em um apoio para se equilibrar e cruze a outra perna atrás.",
+   "Desça o calcanhar abaixo do degrau, alongando a panturrilha.",
+   "Suba o máximo possível na ponta do pé e segure um instante."
+  ],
+  "dica": "Faça o movimento completo e devagar; use as duas pernas se o equilíbrio atrapalhar."
+ },
+ {
+  "id": "x_bear_crawl",
+  "nome": "Bear crawl (caminhada do urso)",
+  "nomeEn": "Bear Crawl",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "abdominals",
+   "shoulders"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "chest",
+   "triceps",
+   "glutes"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Apoie as mãos e os pés no chão, com os joelhos dobrados a poucos centímetros do solo.",
+   "Mantenha as costas retas e o quadril na altura dos ombros.",
+   "Avance o braço e a perna opostos ao mesmo tempo.",
+   "Continue andando de forma controlada, sem deixar o quadril balançar."
+  ],
+  "dica": "Passos curtos e o joelho próximo do chão mantêm o controle; ande para trás para variar."
+ },
+ {
+  "id": "x_caranguejo",
+  "nome": "Caminhada do caranguejo",
+  "nomeEn": "Crab Walk",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "triceps",
+   "glutes"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "hamstrings",
+   "abdominals"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Sente no chão, com os joelhos dobrados e as mãos apoiadas atrás do corpo.",
+   "Eleve o quadril, mantendo-o alinhado com os ombros e os joelhos.",
+   "Ande para a frente ou para trás, movendo mão e pé opostos.",
+   "Mantenha o quadril alto e o pescoço relaxado."
+  ],
+  "dica": "Erro comum: deixar o quadril cair; mantenha-o elevado e os ombros longe das orelhas."
+ },
+ {
+  "id": "x_negativa_barra",
+  "nome": "Negativa na barra fixa",
+  "nomeEn": "Negative Pull-Up",
+  "categoria": "calistenia",
+  "nivel": "intermediario",
+  "equipamento": "barra_fixa",
+  "musculosPrincipais": [
+   "lats",
+   "biceps"
+  ],
+  "musculosSecundarios": [
+   "middle back",
+   "forearms",
+   "shoulders"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Suba até a barra com um banco ou salto, com o queixo acima dela.",
+   "Segure a barra com as mãos na largura dos ombros e o corpo firme.",
+   "Desça devagar, controlando o movimento por 3 a 5 segundos.",
+   "Estenda os braços por completo e repita."
+  ],
+  "dica": "Controle a descida em vez de cair; essa é a base para a primeira barra completa."
+ },
+ {
+  "id": "x_dead_hang",
+  "nome": "Dead hang (pendurar na barra)",
+  "nomeEn": "Dead Hang",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "barra_fixa",
+  "musculosPrincipais": [
+   "forearms",
+   "lats"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "biceps"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Segure a barra fixa com as mãos um pouco mais largas que os ombros.",
+   "Fique pendurado com os braços estendidos e os pés fora do chão.",
+   "Mantenha os ombros ativos, sem encolhê-los na direção das orelhas.",
+   "Respire normalmente e segure o tempo definido."
+  ],
+  "dica": "Se a pegada falhar, use as pontas dos pés em um banco para reduzir a carga."
+ },
+ {
+  "id": "x_l_sit",
+  "nome": "L-sit",
+  "nomeEn": "L-Sit",
+  "categoria": "calistenia",
+  "nivel": "avancado",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "quadriceps",
+   "triceps",
+   "shoulders"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Sente no chão, com as pernas estendidas e as mãos apoiadas ao lado do quadril.",
+   "Empurre o chão, elevando o quadril e as pernas do solo.",
+   "Mantenha as pernas esticadas, paralelas ao chão, e os ombros longe das orelhas.",
+   "Segure a posição pelo tempo definido."
+  ],
+  "dica": "Comece com os joelhos dobrados (tuck sit); use paralelas ou apoios para ficar mais alto."
+ },
+ {
+  "id": "x_remada_toalha",
+  "nome": "Remada com toalha na porta",
+  "nomeEn": "Towel Door Row",
+  "categoria": "calistenia",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "lats",
+   "middle back"
+  ],
+  "musculosSecundarios": [
+   "biceps",
+   "forearms"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Prenda uma toalha firme nos dois lados de uma porta fechada, segurando as pontas.",
+   "Incline o corpo para trás com os braços estendidos e o corpo alinhado.",
+   "Puxe o peito em direção às mãos, juntando as escápulas.",
+   "Estenda os braços com controle e repita."
+  ],
+  "dica": "Verifique se a porta está bem fechada e firme; quanto mais inclinado para trás, mais difícil."
+ },
+ {
+  "id": "x_sprawl",
+  "nome": "Sprawl",
+  "nomeEn": "Sprawl",
+  "categoria": "hiit",
+  "nivel": "intermediario",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "abdominals",
+   "quadriceps"
+  ],
+  "musculosSecundarios": [
+   "chest",
+   "shoulders",
+   "triceps",
+   "glutes"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, agache rápido e apoie as mãos no chão.",
+   "Jogue as pernas para trás, deixando o quadril perto do chão.",
+   "Volte os pés para perto das mãos de modo explosivo.",
+   "Levante-se e repita no ritmo."
+  ],
+  "dica": "É um burpee sem flexão; mantenha o abdômen firme ao jogar as pernas."
+ },
+ {
+  "id": "x_squat_thrust",
+  "nome": "Squat thrust",
+  "nomeEn": "Squat Thrust",
+  "categoria": "hiit",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "quadriceps",
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "chest",
+   "shoulders",
+   "triceps"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em pé, agache e apoie as mãos no chão.",
+   "Salte com os dois pés para trás, até a prancha alta.",
+   "Salte com os dois pés de volta, perto das mãos.",
+   "Fique em pé e repita."
+  ],
+  "dica": "Mantenha o quadril alinhado na prancha; para facilitar, leve um pé de cada vez."
+ },
+ {
+  "id": "x_shadow_boxing",
+  "nome": "Shadow boxing",
+  "nomeEn": "Shadow Boxing",
+  "categoria": "cardio",
+  "nivel": "iniciante",
+  "equipamento": "nenhum",
+  "musculosPrincipais": [
+   "shoulders",
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "triceps",
+   "chest",
+   "calves"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Fique em base de luta, com os pés afastados e os joelhos levemente flexionados.",
+   "Mantenha as mãos protegendo o rosto e o queixo baixo.",
+   "Execute jabs, diretos e ganchos, girando o quadril e o pé de trás.",
+   "Movimente-se e desvie, mantendo o ritmo ao longo do tempo."
+  ],
+  "dica": "Gire o quadril a cada golpe; evite estender totalmente os cotovelos."
+ },
+ {
+  "id": "x_escalador_cruzado",
+  "nome": "Escalador cruzado",
+  "nomeEn": "Cross-Body Mountain Climber",
+  "categoria": "hiit",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "quadriceps",
+   "chest"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Assuma a prancha alta, com as mãos sob os ombros.",
+   "Leve um joelho em direção ao cotovelo oposto, girando o tronco levemente.",
+   "Alterne as pernas em ritmo controlado.",
+   "Mantenha o quadril baixo e o abdômen firme."
+  ],
+  "dica": "Reduza o ritmo para manter o quadril estável."
+ },
+ {
+  "id": "x_rotacao_toracica",
+  "nome": "Rotação torácica em quatro apoios",
+  "nomeEn": "Quadruped Thoracic Rotation",
+  "categoria": "mobilidade",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "middle back"
+  ],
+  "musculosSecundarios": [
+   "shoulders",
+   "abdominals",
+   "lower back"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Em quatro apoios, apoie uma mão atrás da cabeça.",
+   "Gire o tronco levando o cotovelo em direção ao chão, para baixo do corpo.",
+   "Abra o peito, girando o cotovelo para o teto e acompanhando com o olhar.",
+   "Volte devagar e troque de lado ao fim da série."
+  ],
+  "dica": "Mantenha o quadril parado; o movimento vem da parte alta das costas."
+ },
+ {
+  "id": "x_mobilidade_90_90",
+  "nome": "Mobilidade de quadril 90/90",
+  "nomeEn": "90/90 Hip Mobility",
+  "categoria": "mobilidade",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "glutes",
+   "abductors"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "lower back"
+  ],
+  "porTempo": false,
+  "instrucoes": [
+   "Sente no chão, com a perna da frente dobrada em 90 graus à frente.",
+   "Dobre a outra perna em 90 graus ao lado, também apoiada no chão.",
+   "Mantendo o tronco ereto, incline o peito à frente, sobre a perna da frente.",
+   "Volte e gire as pernas para o outro lado, alternando a posição."
+  ],
+  "dica": "Se o quadril levantar do chão, apoie as mãos ou use uma almofada sob o quadril."
+ },
+ {
+  "id": "x_alongamento_cobra",
+  "nome": "Alongamento cobra",
+  "nomeEn": "Cobra Stretch",
+  "categoria": "mobilidade",
+  "nivel": "iniciante",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "abdominals"
+  ],
+  "musculosSecundarios": [
+   "lower back",
+   "shoulders"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Deite de barriga para baixo, com as mãos apoiadas ao lado do peito.",
+   "Empurre o chão e eleve o tronco, estendendo os braços.",
+   "Mantenha o quadril no chão e os ombros longe das orelhas.",
+   "Respire fundo e segure a posição."
+  ],
+  "dica": "Suba só até não sentir desconforto na lombar; mantenha o pescoço neutro."
+ },
+ {
+  "id": "x_pombo",
+  "nome": "Alongamento do pombo (pigeon)",
+  "nomeEn": "Pigeon Pose",
+  "categoria": "mobilidade",
+  "nivel": "intermediario",
+  "equipamento": "colchonete",
+  "musculosPrincipais": [
+   "glutes",
+   "abductors"
+  ],
+  "musculosSecundarios": [
+   "adductors",
+   "lower back"
+  ],
+  "porTempo": true,
+  "instrucoes": [
+   "Em quatro apoios, leve um joelho à frente, entre as mãos, com a perna dobrada.",
+   "Estenda a outra perna para trás, com o peito do pé no chão.",
+   "Mantenha o quadril o mais nivelado possível e incline o tronco à frente.",
+   "Respire e segure a posição; troque de lado."
+  ],
+  "dica": "Se o joelho incomodar, apoie uma almofada sob o quadril ou faça a versão deitada, com os pés no chão."
+ }
+]

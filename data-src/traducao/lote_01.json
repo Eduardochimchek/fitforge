@@ -1,0 +1,608 @@
+{
+ "Standing_Military_Press": {
+  "nome": "Desenvolvimento militar em pé",
+  "instrucoes": [
+   "Apoie a barra no rack na altura do peito e segure-a com pegada pronada, mais aberta que a largura dos ombros.",
+   "Retire a barra do rack, dê um passo atrás e afaste os pés na largura dos ombros, com a barra apoiada na clavícula.",
+   "Estenda os braços e empurre a barra acima da cabeça, até travar os cotovelos. Essa é a posição inicial.",
+   "Desça a barra devagar até a clavícula, inspirando.",
+   "Empurre a barra de volta para cima, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Dumbbell_Shoulder_Press": {
+  "nome": "Desenvolvimento com halteres",
+  "instrucoes": [
+   "Sentado em um banco com encosto, apoie os halteres sobre as coxas.",
+   "Leve os halteres, um de cada vez, até a altura dos ombros, com as palmas voltadas para a frente.",
+   "Expire e empurre os halteres para cima até se encontrarem no alto.",
+   "Faça uma breve pausa e desça devagar até a posição inicial, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Seated_Dumbbell_Press": {
+  "nome": "Desenvolvimento sentado com halteres",
+  "instrucoes": [
+   "Sente em um banco com encosto e apoie os halteres sobre as coxas.",
+   "Leve os halteres, um de cada vez, até a altura dos ombros, com as palmas para a frente.",
+   "Expire e empurre os halteres para cima até se tocarem no alto.",
+   "Pause por um segundo e desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Arnold_Dumbbell_Press": {
+  "nome": "Desenvolvimento Arnold",
+  "instrucoes": [
+   "Sentado em um banco com encosto, segure os halteres na altura do peito, com as palmas voltadas para você e os cotovelos flexionados.",
+   "Suba os halteres girando as palmas para a frente, expirando, até estender os braços acima da cabeça.",
+   "Pause por um segundo no alto.",
+   "Desça girando as palmas de volta para você, inspirando, até a posição inicial.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Machine_Shoulder_Military_Press": {
+  "nome": "Desenvolvimento na máquina",
+  "instrucoes": [
+   "Sente na máquina de desenvolvimento, ajuste a carga e segure as pegadas ao lado do corpo, com os cotovelos flexionados.",
+   "Expire e empurre as pegadas para cima até estender os braços.",
+   "Segure a contração por um segundo no alto.",
+   "Volte devagar à posição inicial, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Side_Lateral_Raise": {
+  "nome": "Elevação lateral",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure um halter em cada mão ao lado do corpo, com as palmas voltadas para você.",
+   "Com os cotovelos levemente flexionados, eleve os halteres para os lados até a altura dos ombros, como se despejasse água de um copo. Expire ao subir.",
+   "Pause por um segundo no alto, sem balançar o tronco.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Seated_Side_Lateral_Raise": {
+  "nome": "Elevação lateral sentado",
+  "instrucoes": [
+   "Sente na ponta de um banco reto, com os pés firmes no chão, e segure os halteres ao lado do corpo, com as palmas voltadas para dentro.",
+   "Com os cotovelos levemente flexionados, eleve os halteres para os lados até a altura dos ombros, como se despejasse água de um copo. Expire ao subir.",
+   "Pause por um segundo no alto, sem balançar o tronco.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Front_Dumbbell_Raise": {
+  "nome": "Elevação frontal com halteres",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure os halteres à frente das coxas, com as palmas voltadas para elas.",
+   "Eleve um halter à frente, com o cotovelo levemente flexionado e a palma sempre para baixo, até um pouco acima da linha do ombro. Expire ao subir.",
+   "Pause por um segundo e desça devagar, inspirando, enquanto sobe o outro halter.",
+   "Alterne os braços sem balançar o tronco.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Lateral_Raise_-_With_Bands": {
+  "nome": "Elevação lateral com elástico",
+  "instrucoes": [
+   "Pise no elástico e segure as alças com pegada pronada, junto às coxas, com a coluna reta e os cotovelos levemente flexionados.",
+   "Eleve as alças para os lados até um pouco acima da linha do ombro, como se despejasse água, mantendo os braços estendidos. Expire ao subir.",
+   "Pause por um segundo no alto, sem mover o tronco.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Reverse_Flyes": {
+  "nome": "Crucifixo inverso com halteres",
+  "instrucoes": [
+   "Deite de peito para baixo em um banco inclinado, com um halter em cada mão, palmas voltadas uma para a outra e braços estendidos para baixo.",
+   "Mantendo os cotovelos levemente flexionados, abra os braços para os lados em arco, expirando, juntando as escápulas.",
+   "Suba até os braços ficarem paralelos ao chão e sinta a contração.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Reverse_Machine_Flyes": {
+  "nome": "Crucifixo inverso na máquina",
+  "instrucoes": [
+   "Ajuste as pegadas totalmente para trás, escolha a carga e regule o banco para que as pegadas fiquem na altura dos ombros.",
+   "Segure as pegadas com as palmas voltadas para dentro.",
+   "Abra os braços para os lados e para trás em semicírculo, contraindo o deltoide posterior, com os cotovelos levemente flexionados.",
+   "Pause atrás e volte devagar à posição inicial.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Seated_Bent-Over_Rear_Delt_Raise": {
+  "nome": "Elevação posterior sentado",
+  "instrucoes": [
+   "Sente na ponta de um banco reto, com as pernas juntas e os halteres atrás das panturrilhas.",
+   "Incline o tronco à frente com a coluna reta e segure os halteres, com as palmas voltadas uma para a outra.",
+   "Com o tronco imóvel e os cotovelos levemente flexionados, eleve os halteres para os lados até os braços ficarem paralelos ao chão, expirando.",
+   "Segure a contração por um segundo, sem balançar o tronco nem levar os braços para trás.",
+   "Desça devagar até a posição inicial.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Upright_Barbell_Row": {
+  "nome": "Remada alta com barra",
+  "instrucoes": [
+   "Segure a barra com pegada pronada, um pouco mais fechada que a largura dos ombros, apoiada nas coxas, com os braços estendidos e a coluna reta.",
+   "Expire e eleve a barra junto ao corpo, levando os cotovelos para cima e para os lados, até quase tocar o queixo.",
+   "Mantenha os cotovelos sempre acima dos antebraços e o tronco imóvel. Pause por um segundo no alto.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Barbell_Shrug": {
+  "nome": "Encolhimento com barra",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros, segure a barra à frente do corpo com pegada pronada, um pouco mais aberta que os ombros. Pode usar munhequeira para melhorar a pegada.",
+   "Eleve os ombros o máximo que puder, expirando, e segure a contração por um segundo.",
+   "Não use os bíceps para levantar a barra.",
+   "Volte devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Dumbbell_Shrug": {
+  "nome": "Encolhimento com halteres",
+  "instrucoes": [
+   "Em pé, segure um halter em cada mão ao lado do corpo, com as palmas voltadas para as coxas e os braços estendidos.",
+   "Eleve os ombros o máximo possível, expirando, e segure a contração por um segundo no alto.",
+   "Mantenha os braços estendidos o tempo todo: só os ombros se movem, sem ajuda dos bíceps.",
+   "Volte devagar à posição inicial.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Barbell_Curl": {
+  "nome": "Rosca direta com barra",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure a barra na largura dos ombros, com as palmas para a frente e os cotovelos junto ao corpo.",
+   "Mantendo os braços parados, flexione os cotovelos e suba a barra até a altura dos ombros, expirando. Só os antebraços se movem.",
+   "Segure a contração por um segundo, apertando o bíceps.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Dumbbell_Bicep_Curl": {
+  "nome": "Rosca direta com halteres",
+  "instrucoes": [
+   "Em pé, segure um halter em cada mão com os braços estendidos, cotovelos junto ao corpo e palmas voltadas para a frente.",
+   "Mantendo os braços parados, expire e flexione os cotovelos até os halteres chegarem à altura dos ombros.",
+   "Faça uma breve pausa apertando o bíceps.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Dumbbell_Alternate_Bicep_Curl": {
+  "nome": "Rosca alternada com halteres",
+  "instrucoes": [
+   "Em pé, segure um halter em cada mão com os braços estendidos, cotovelos junto ao corpo e palmas voltadas para as coxas.",
+   "Com o braço parado, suba o halter direito girando a palma para a frente, expirando, até a altura do ombro.",
+   "Segure a contração por um segundo e desça devagar, inspirando, girando a palma de volta para as coxas.",
+   "Repita com o braço esquerdo. Isso conta como uma repetição.",
+   "Continue alternando, movendo só os antebraços."
+  ]
+ },
+ "Hammer_Curls": {
+  "nome": "Rosca martelo",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure um halter em cada mão com os braços estendidos, cotovelos junto ao corpo e palmas voltadas para as coxas.",
+   "Mantendo o braço parado, expire e suba o halter até a altura do ombro, sem girar o punho.",
+   "Faça uma breve pausa apertando o bíceps. Só o antebraço se move.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "EZ-Bar_Curl": {
+  "nome": "Rosca direta com barra W",
+  "instrucoes": [
+   "Em pé, segure a barra W pela parte externa, com as palmas para a frente e levemente inclinadas para dentro, e os cotovelos junto ao corpo.",
+   "Mantendo os braços parados, expire e suba a barra até a altura dos ombros, movendo só os antebraços.",
+   "Segure a contração por um momento, apertando o bíceps.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Preacher_Curl": {
+  "nome": "Rosca scott com barra W",
+  "instrucoes": [
+   "Sente no banco scott com os braços apoiados na almofada e o peito encostado nela. Segure a barra W pela parte interna, com as palmas para a frente, na altura dos ombros.",
+   "Inspire e desça a barra devagar até o braço ficar estendido e o bíceps alongado.",
+   "Expire e suba a barra com o bíceps até a altura dos ombros.",
+   "Aperte o bíceps e segure por um segundo.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Concentration_Curls": {
+  "nome": "Rosca concentrada",
+  "instrucoes": [
+   "Sente em um banco reto, com as pernas afastadas e os pés no chão, e um halter entre os pés.",
+   "Pegue o halter com a mão direita e apoie a parte de trás do braço na parte interna da coxa, com o braço estendido e a palma para a frente.",
+   "Mantendo o braço parado, expire e suba o halter até a altura do ombro, movendo só o antebraço. No alto, deixe o dedo mínimo acima do polegar.",
+   "Segure a contração por um segundo e desça devagar, inspirando. Evite balançar o corpo.",
+   "Repita com o braço esquerdo."
+  ]
+ },
+ "Incline_Dumbbell_Curl": {
+  "nome": "Rosca inclinada com halteres",
+  "instrucoes": [
+   "Sente em um banco inclinado, com as costas apoiadas, segurando um halter em cada mão com os braços estendidos e palmas para a frente.",
+   "Mantendo os braços parados, expire e suba os halteres até a altura dos ombros, movendo só os antebraços.",
+   "Segure a contração por um segundo.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Standing_Biceps_Cable_Curl": {
+  "nome": "Rosca direta na polia baixa",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure a barra presa à polia baixa com pegada supinada, na largura dos ombros, e os cotovelos junto ao corpo.",
+   "Mantendo os braços parados, expire e suba a barra até a altura dos ombros, movendo só os antebraços.",
+   "Segure a contração por um segundo, apertando o bíceps.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Cable_Hammer_Curls_-_Rope_Attachment": {
+  "nome": "Rosca martelo na polia com corda",
+  "instrucoes": [
+   "Prenda a corda na polia baixa e fique de frente para a máquina, a cerca de 30 cm dela. Segure a corda com pegada neutra (palmas voltadas para dentro).",
+   "Em pé, com a postura natural e o tronco imóvel, mantenha os cotovelos junto ao corpo durante todo o movimento.",
+   "Expire e flexione os cotovelos, subindo a corda até o bíceps encostar no antebraço. Só os antebraços se movem.",
+   "Segure a contração por um segundo e desça devagar.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Machine_Bicep_Curl": {
+  "nome": "Rosca na máquina",
+  "instrucoes": [
+   "Ajuste a altura do banco e escolha a carga. Apoie os braços nas almofadas e segure as pegadas.",
+   "Flexione os cotovelos, trazendo os antebraços em direção aos braços.",
+   "Pause no alto e volte devagar à posição inicial.",
+   "Não apoie a carga totalmente no fim para manter a tensão no músculo até terminar a série."
+  ]
+ },
+ "Zottman_Curl": {
+  "nome": "Rosca Zottman",
+  "instrucoes": [
+   "Em pé, segure um halter em cada mão com os braços estendidos, cotovelos junto ao corpo e palmas voltadas uma para a outra.",
+   "Mantendo os braços parados, expire e suba os halteres girando os punhos até as palmas ficarem para cima, até a altura dos ombros.",
+   "Segure a contração por um segundo e, no alto, gire os punhos até as palmas ficarem para baixo.",
+   "Desça devagar com a pegada pronada e, perto das coxas, gire os punhos de volta à posição neutra.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Reverse_Barbell_Curl": {
+  "nome": "Rosca inversa com barra",
+  "instrucoes": [
+   "Em pé, com o tronco reto, segure a barra na largura dos ombros com pegada pronada (palmas para baixo) e os cotovelos junto ao corpo.",
+   "Mantendo os braços parados, expire e suba a barra até a altura dos ombros, movendo só os antebraços.",
+   "Segure a contração por um segundo.",
+   "Desça devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Triceps_Pushdown": {
+  "nome": "Tríceps na polia com barra",
+  "instrucoes": [
+   "Prenda uma barra reta ou angulada na polia alta e segure-a com pegada pronada, na largura dos ombros.",
+   "Em pé, com o tronco reto e levemente inclinado à frente, deixe os braços junto ao corpo e os antebraços apontando para a polia.",
+   "Expire e empurre a barra para baixo até tocar a frente das coxas, estendendo totalmente os braços.",
+   "Segure por um segundo e volte devagar, inspirando. Só os antebraços se movem.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Triceps_Pushdown_-_Rope_Attachment": {
+  "nome": "Tríceps corda",
+  "instrucoes": [
+   "Prenda a corda na polia alta e segure-a com pegada neutra (palmas voltadas uma para a outra).",
+   "Em pé, com o tronco reto e levemente inclinado à frente, deixe os braços junto ao corpo e os antebraços apontando para a polia.",
+   "Expire e empurre a corda para baixo, levando as pontas para as laterais das coxas, até estender totalmente os braços.",
+   "Segure por um segundo e volte devagar, inspirando. Só os antebraços se movem.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Cable_Rope_Overhead_Triceps_Extension": {
+  "nome": "Tríceps francês na polia com corda",
+  "instrucoes": [
+   "Prenda a corda na polia baixa e segure-a com as duas mãos, pegada neutra. Estenda os braços acima da cabeça, com os cotovelos próximos à cabeça.",
+   "Mantendo os braços parados, desça a corda atrás da cabeça, inspirando, até alongar bem o tríceps.",
+   "Volte à posição inicial contraindo o tríceps, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "EZ-Bar_Skullcrusher": {
+  "nome": "Tríceps testa com barra W",
+  "instrucoes": [
+   "Deite no banco e segure a barra W com pegada fechada, cotovelos fechados e braços perpendiculares ao chão.",
+   "Mantendo os braços parados, flexione os cotovelos e desça a barra, inspirando, até ficar logo acima da testa.",
+   "Estenda os cotovelos e suba a barra de volta, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Lying_Triceps_Press": {
+  "nome": "Tríceps testa",
+  "instrucoes": [
+   "Deite em um banco reto, com os pés no chão, e pegue uma barra W (ou reta) com pegada pronada média, estendendo os braços à frente. Os braços ficam perpendiculares ao tronco e ao chão, com os cotovelos fechados.",
+   "Inspire e desça a barra devagar até encostar de leve na testa, mantendo braços e cotovelos parados.",
+   "Use o tríceps para subir de volta, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Standing_Dumbbell_Triceps_Extension": {
+  "nome": "Tríceps francês com halter em pé",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros, segure um halter com as duas mãos e estenda os braços acima da cabeça, com as palmas voltadas para cima sustentando o peso.",
+   "Mantendo os braços junto à cabeça e os cotovelos fechados, desça o halter atrás da cabeça em semicírculo até os antebraços tocarem os bíceps, inspirando.",
+   "Suba o halter de volta com o tríceps, expirando. Só os antebraços se movem.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Tricep_Dumbbell_Kickback": {
+  "nome": "Tríceps coice com halteres",
+  "instrucoes": [
+   "Segure um halter em cada mão, palmas voltadas para o corpo. Com os joelhos levemente flexionados e a coluna reta, incline o tronco à frente quase paralelo ao chão, com a cabeça erguida.",
+   "Deixe os braços junto ao tronco, paralelos ao chão, e os antebraços apontando para baixo, formando 90 graus.",
+   "Mantendo os braços parados, expire e estenda os cotovelos até os braços ficarem retos.",
+   "Faça uma breve pausa e volte devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Body_Tricep_Press": {
+  "nome": "Tríceps com peso do corpo na barra",
+  "instrucoes": [
+   "Posicione uma barra no rack na altura do peito. Em pé, segure a barra na largura dos ombros e dê um ou dois passos para trás, com os pés juntos e os braços estendidos, inclinado sobre a barra.",
+   "Flexione os cotovelos e desça o corpo em direção à barra.",
+   "Pause e estenda os cotovelos para voltar.",
+   "Para progredir, adicione correntes sobre os ombros."
+  ]
+ },
+ "Barbell_Squat": {
+  "nome": "Agachamento livre com barra",
+  "instrucoes": [
+   "De preferência dentro de um rack, apoie a barra um pouco abaixo da altura dos ombros. Posicione-se sob a barra, apoiando-a atrás dos ombros, e retire-a do rack empurrando com as pernas e endireitando o tronco.",
+   "Dê um passo atrás e afaste os pés na largura dos ombros, com as pontas levemente voltadas para fora. Mantenha a cabeça erguida e a coluna reta.",
+   "Desça devagar flexionando joelhos e quadris, inspirando, até as coxas ficarem um pouco abaixo da linha paralela ao chão.",
+   "Mantenha os joelhos alinhados com os pés, sem deixá-los passar muito das pontas.",
+   "Suba empurrando o chão com os calcanhares, expirando, até estender as pernas.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Barbell_Full_Squat": {
+  "nome": "Agachamento profundo com barra",
+  "instrucoes": [
+   "De preferência dentro de um rack, apoie a barra um pouco acima da altura dos ombros. Posicione-se sob a barra, apoiando-a atrás dos ombros, e retire-a do rack empurrando com as pernas e endireitando o tronco.",
+   "Dê um passo atrás e afaste os pés na largura dos ombros, com as pontas levemente voltadas para fora. Mantenha a cabeça erguida e a coluna reta.",
+   "Desça devagar flexionando joelhos e quadris, inspirando, até a parte de trás das coxas encostar nas panturrilhas.",
+   "Suba empurrando o chão com o calcanhar ou o meio do pé, expirando, estendendo pernas e quadris.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Front_Barbell_Squat": {
+  "nome": "Agachamento frontal com barra",
+  "instrucoes": [
+   "De preferência dentro de um rack, ajuste a barra na sua altura. Passe os braços sob a barra, com os cotovelos altos, e apoie-a sobre os deltoides, cruzando os braços para segurá-la.",
+   "Retire a barra do rack empurrando com as pernas e endireitando o tronco, dê um passo atrás e afaste os pés na largura dos ombros, com as pontas levemente para fora.",
+   "Mantenha a cabeça erguida, olhando para a frente, e a coluna reta.",
+   "Desça devagar flexionando os joelhos, inspirando, até as coxas ficarem abaixo da linha paralela ao chão.",
+   "Suba empurrando o chão com o meio do pé, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Goblet_Squat": {
+  "nome": "Agachamento goblet",
+  "instrucoes": [
+   "Em pé, segure um kettlebell leve pelas alças junto ao peito.",
+   "Agache descendo entre as pernas até a parte de trás das coxas encostar nas panturrilhas, com o peito e a cabeça erguidos e a coluna reta.",
+   "Na posição baixa, pause e empurre os joelhos para fora com os cotovelos.",
+   "Suba de volta à posição inicial. Faça de 10 a 20 repetições."
+  ]
+ },
+ "Dumbbell_Squat": {
+  "nome": "Agachamento com halteres",
+  "instrucoes": [
+   "Em pé, segure um halter em cada mão ao lado das pernas, com os pés na largura dos ombros e as pontas levemente para fora. Mantenha a cabeça erguida e a coluna reta.",
+   "Desça devagar flexionando os joelhos, inspirando, até as coxas ficarem paralelas ao chão.",
+   "Mantenha os joelhos alinhados com os pés, sem passarem muito das pontas.",
+   "Suba empurrando o chão com os calcanhares, expirando, até estender as pernas.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Bodyweight_Squat": {
+  "nome": "Agachamento livre sem peso",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros, leve as mãos atrás da cabeça se preferir.",
+   "Flexione joelhos e quadris, levando o quadril para trás, e desça o mais fundo que conseguir.",
+   "Suba rápido de volta à posição inicial.",
+   "Mantenha a cabeça e o peito erguidos e empurre os joelhos para fora.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Chair_Squat": {
+  "nome": "Agachamento com barra (pés à frente)",
+  "instrucoes": [
+   "Ajuste a barra na sua altura, posicione-se sob ela com a barra atrás dos ombros e as palmas para a frente, e retire-a do rack estendendo as pernas.",
+   "Afaste os pés cerca de 45 cm à frente da barra, na largura dos ombros, com as pontas levemente para fora. Olhe para a frente e mantenha a coluna neutra.",
+   "Desça devagar flexionando os joelhos, com o tronco ereto e a cabeça erguida, até passar dos 90 graus entre coxa e perna.",
+   "Suba empurrando o chão com os calcanhares, expirando, até estender os joelhos.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Freehand_Jump_Squat": {
+  "nome": "Agachamento com salto",
+  "instrucoes": [
+   "Cruze os braços sobre o peito, com a cabeça erguida, a coluna reta e os pés na largura dos ombros.",
+   "Agache inspirando, com o peito erguido, até as coxas ficarem paralelas ao chão ou abaixo.",
+   "Empurre o chão com a ponta dos pés e salte o mais alto que puder, expirando.",
+   "Ao tocar o chão, agache de novo imediatamente e salte outra vez."
+  ]
+ },
+ "Sit_Squats": {
+  "nome": "Meio agachamento",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros.",
+   "Flexione joelhos e quadris, levando o quadril para trás, até descer só uma parte do caminho, acima da linha paralela.",
+   "Suba rápido de volta à posição inicial.",
+   "Faça de 5 a 10 repetições."
+  ]
+ },
+ "Plie_Dumbbell_Squat": {
+  "nome": "Agachamento sumô com halter",
+  "instrucoes": [
+   "Em pé, segure um halter pela base com as duas mãos. Afaste as pernas mais que a largura dos ombros, com os joelhos levemente flexionados e as pontas dos pés voltadas para fora.",
+   "Mantenha os braços parados durante o exercício.",
+   "Flexione os joelhos e desça devagar até as coxas ficarem paralelas ao chão, inspirando.",
+   "Suba empurrando o chão com os calcanhares, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Wide_Stance_Barbell_Squat": {
+  "nome": "Agachamento sumô com barra",
+  "instrucoes": [
+   "De preferência dentro de um rack, ajuste a barra na sua altura. Posicione-se sob ela, apoiando-a atrás dos ombros, e retire-a do rack empurrando com as pernas e endireitando o tronco.",
+   "Dê um passo atrás e afaste os pés mais que a largura dos ombros, com as pontas levemente para fora. Mantenha a cabeça erguida e a coluna reta.",
+   "Desça devagar flexionando os joelhos, inspirando, até as coxas ficarem abaixo da linha paralela ao chão.",
+   "Mantenha os joelhos alinhados com os pés.",
+   "Suba empurrando o chão com os calcanhares, expirando, até estender as pernas.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Smith_Machine_Squat": {
+  "nome": "Agachamento no Smith",
+  "instrucoes": [
+   "Ajuste a barra na sua altura, posicione-se sob ela com a barra atrás dos ombros, palmas para a frente, destrave-a e levante-se empurrando com as pernas.",
+   "Posicione os pés na largura dos ombros, com as pontas levemente para fora. Mantenha a cabeça erguida e a coluna reta.",
+   "Desça devagar flexionando os joelhos, inspirando, até as coxas ficarem abaixo da linha paralela ao chão.",
+   "Mantenha os joelhos alinhados com os pés.",
+   "Suba empurrando o chão com os calcanhares, expirando, até estender as pernas.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Hack_Squat": {
+  "nome": "Agachamento hack",
+  "instrucoes": [
+   "Encoste as costas no apoio da máquina, com os ombros sob as almofadas, e posicione os pés na plataforma na largura dos ombros, com as pontas levemente para fora.",
+   "Segure as alças laterais, destrave a segurança e estenda as pernas sem travar os joelhos. Essa é a posição inicial.",
+   "Mantendo a cabeça erguida e as costas sempre apoiadas, desça devagar flexionando os joelhos, inspirando, até as coxas ficarem abaixo da linha paralela.",
+   "Mantenha os joelhos alinhados com os pés.",
+   "Suba empurrando a plataforma com os calcanhares, expirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Leg_Press": {
+  "nome": "Leg press",
+  "instrucoes": [
+   "Sente na máquina e posicione os pés na plataforma na largura dos ombros.",
+   "Solte as travas de segurança e empurre a plataforma até estender as pernas, sem travar os joelhos. Essa é a posição inicial.",
+   "Inspire e desça a plataforma devagar até formar 90 graus entre coxa e perna.",
+   "Expire e empurre com os calcanhares, usando o quadríceps, até a posição inicial.",
+   "Ao terminar, trave bem os pinos de segurança, para a plataforma carregada não cair sobre você.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Leg_Extensions": {
+  "nome": "Cadeira extensora",
+  "instrucoes": [
+   "Escolha a carga e sente na máquina, com as pernas sob o rolo, as pontas dos pés para a frente e as mãos nas laterais.",
+   "Ajuste o rolo para ficar sobre a parte baixa das pernas, logo acima dos pés, e as pernas formando 90 graus.",
+   "Expire e estenda as pernas ao máximo com o quadríceps, mantendo o corpo parado no assento.",
+   "Pause por um segundo e desça devagar, inspirando, sem passar dos 90 graus.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Lying_Leg_Curls": {
+  "nome": "Mesa flexora",
+  "instrucoes": [
+   "Ajuste a máquina à sua altura e deite de bruços, com o rolo apoiado na parte de trás das pernas, poucos centímetros abaixo das panturrilhas.",
+   "Mantenha o tronco rente ao banco, as pernas estendidas e as mãos nas pegadas laterais.",
+   "Expire e flexione as pernas o máximo possível, sem tirar as coxas do banco.",
+   "Segure a contração por um segundo e volte devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Seated_Leg_Curl": {
+  "nome": "Cadeira flexora",
+  "instrucoes": [
+   "Ajuste a máquina à sua altura e sente com as costas apoiadas. Apoie a parte de trás das pernas sobre o rolo e prenda a almofada sobre as coxas, logo acima dos joelhos.",
+   "Segure as pegadas laterais, com as pontas dos pés para a frente e as pernas estendidas.",
+   "Expire e puxe o rolo para trás o máximo possível, flexionando os joelhos, sem mover o tronco.",
+   "Segure a contração por um segundo e volte devagar, inspirando.",
+   "Repita pelo número de repetições planejado."
+  ]
+ },
+ "Barbell_Lunge": {
+  "nome": "Afundo com barra",
+  "instrucoes": [
+   "De preferência dentro de um rack, apoie a barra um pouco abaixo da altura dos ombros. Posicione-se sob ela, com a barra atrás dos ombros, e retire-a do rack empurrando com as pernas e endireitando o tronco.",
+   "Dê um passo à frente com a perna direita e desça o quadril, com o tronco ereto e o equilíbrio firme, inspirando.",
+   "Não deixe o joelho da frente passar muito da ponta do pé, para não sobrecarregar a articulação.",
+   "Empurre com o calcanhar para voltar à posição inicial, expirando.",
+   "Faça as repetições e depois repita com a perna esquerda."
+  ]
+ },
+ "Dumbbell_Lunges": {
+  "nome": "Afundo com halteres",
+  "instrucoes": [
+   "Em pé, com o tronco ereto, segure um halter em cada mão ao lado do corpo.",
+   "Dê um passo à frente com a perna direita, cerca de 60 cm, e desça o corpo mantendo o tronco ereto e o equilíbrio, inspirando.",
+   "Mantenha a canela da frente perpendicular ao chão e não deixe o joelho passar muito da ponta do pé.",
+   "Empurre com o calcanhar para voltar à posição inicial, expirando.",
+   "Faça as repetições e depois repita com a perna esquerda."
+  ]
+ },
+ "Bodyweight_Walking_Lunge": {
+  "nome": "Passada (caminhando)",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros e as mãos na cintura.",
+   "Dê um passo à frente e flexione os joelhos, descendo o quadril até o joelho de trás quase tocar o chão.",
+   "Mantenha o tronco ereto e o joelho da frente acima do pé.",
+   "Empurre com o calcanhar da frente e estenda os joelhos para subir.",
+   "Dê o próximo passo com a perna de trás e repita do outro lado, alternando."
+  ]
+ },
+ "Barbell_Walking_Lunge": {
+  "nome": "Passada com barra",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros e a barra apoiada na parte alta das costas.",
+   "Dê um passo à frente e flexione os joelhos, descendo o quadril até o joelho de trás quase tocar o chão.",
+   "Mantenha o tronco ereto e o joelho da frente acima do pé.",
+   "Empurre com o calcanhar da frente e estenda os joelhos para subir.",
+   "Dê o próximo passo com a perna de trás e repita do outro lado, alternando."
+  ]
+ },
+ "Dumbbell_Rear_Lunge": {
+  "nome": "Afundo para trás com halteres",
+  "instrucoes": [
+   "Em pé, com o tronco ereto, segure um halter em cada mão ao lado do corpo.",
+   "Dê um passo para trás com a perna direita, cerca de 60 cm, e desça o corpo mantendo o tronco ereto e o equilíbrio, inspirando.",
+   "Mantenha a canela da frente perpendicular ao chão e não deixe o joelho passar muito da ponta do pé.",
+   "Empurre para voltar à posição inicial, expirando. Passos longos enfatizam os glúteos e passos curtos, o quadríceps. Empurrar com a ponta do pé enfatiza o quadríceps e com o calcanhar, os glúteos.",
+   "Repita com a outra perna."
+  ]
+ },
+ "Crossover_Reverse_Lunge": {
+  "nome": "Afundo para trás com rotação",
+  "instrucoes": [
+   "Em pé, com os pés na largura dos ombros.",
+   "Dê um passo para trás com uma perna, flexionando o quadril e o joelho da frente, e gire o tronco sobre a perna da frente.",
+   "Faça uma breve pausa e volte à posição inicial.",
+   "Repita do outro lado, alternando as pernas."
+  ]
+ },
+ "Split_Squats": {
+  "nome": "Afundo alternado com salto",
+  "instrucoes": [
+   "Em pé, salte para a posição de afundo, com uma perna à frente e outra atrás, flexionando os joelhos e abaixando levemente o quadril.",
+   "Ao descer, inverta o movimento imediatamente: suba e salte trocando a posição das pernas.",
+   "Faça de 5 a 10 repetições para cada perna."
+  ]
+ },
+ "Split_Squat_with_Dumbbells": {
+  "nome": "Agachamento búlgaro com halteres",
+  "instrucoes": [
+   "Fique em posição escalonada, com o pé de trás apoiado em um banco e o da frente à frente. Segure um halter em cada mão, deixando os braços soltos ao lado do corpo.",
+   "Desça flexionando joelho e quadril, mantendo a boa postura durante todo o movimento.",
+   "Mantenha o joelho da frente alinhado com o pé.",
+   "Na parte baixa, empurre com o calcanhar para estender joelho e quadril e voltar à posição inicial.",
+   "Repita pelo número de repetições planejado."
+  ]
+ }
+}

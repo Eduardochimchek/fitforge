@@ -1,0 +1,650 @@
+{
+ "Split_Jump": {
+  "nome": "Afundo com salto",
+  "instrucoes": [
+   "Fique na posição de afundo, com um pé à frente e o joelho de trás quase tocando o chão.",
+   "Mantenha o joelho da frente alinhado com o meio do pé.",
+   "Estenda as duas pernas e salte o mais alto possível, usando os braços para ganhar impulso.",
+   "No ar, junte os pés e volte à posição inicial ao aterrissar.",
+   "Amorteça o impacto flexionando os joelhos."
+  ]
+ },
+ "Dumbbell_Step_Ups": {
+  "nome": "Step-up com halteres",
+  "instrucoes": [
+   "Fique em pé com um halter em cada mão, palmas voltadas para as pernas.",
+   "Apoie o pé direito na plataforma elevada.",
+   "Suba estendendo quadril e joelho da perna direita, empurrando principalmente com o calcanhar, e apoie o outro pé na plataforma. Expire na subida.",
+   "Desça com a perna esquerda, flexionando quadril e joelho da direita, e inspire.",
+   "Volte à posição inicial. Complete as repetições com a perna direita e depois faça com a esquerda."
+  ]
+ },
+ "Kettlebell_Pistol_Squat": {
+  "nome": "Agachamento pistol com kettlebell",
+  "instrucoes": [
+   "Segure um kettlebell com as duas mãos pela alça.",
+   "Tire uma perna do chão e agache sobre a outra.",
+   "Desça flexionando o joelho e levando o quadril para trás, mantendo o kettlebell à frente.",
+   "Segure um segundo embaixo e suba empurrando pelo calcanhar, com cabeça e peito erguidos.",
+   "Repita e depois troque de perna."
+  ]
+ },
+ "Butt_Lift_Bridge": {
+  "nome": "Elevação pélvica no solo",
+  "instrucoes": [
+   "Deite de costas no chão, braços ao lado do corpo e joelhos flexionados, com os pés na largura dos ombros.",
+   "Empurrando principalmente pelos calcanhares, eleve o quadril do chão mantendo as costas retas. Expire ao subir.",
+   "Segure um segundo no topo.",
+   "Volte devagar à posição inicial, inspirando."
+  ]
+ },
+ "Single_Leg_Glute_Bridge": {
+  "nome": "Elevação pélvica unilateral",
+  "instrucoes": [
+   "Deite no chão com os pés apoiados e os joelhos flexionados.",
+   "Eleve uma perna, puxando o joelho em direção ao peito.",
+   "Empurre pelo calcanhar da perna de apoio, estendendo o quadril e elevando o glúteo do chão.",
+   "Suba o máximo que conseguir, faça uma pausa e volte à posição inicial. Depois troque de perna."
+  ]
+ },
+ "Barbell_Hip_Thrust": {
+  "nome": "Elevação pélvica com barra",
+  "instrucoes": [
+   "Sente no chão com um banco logo atrás de você e a barra carregada sobre as pernas. Use uma barra grossa ou uma proteção para reduzir o desconforto.",
+   "Role a barra até ficar sobre o quadril e apoie as escápulas na borda superior do banco.",
+   "Empurre pelos pés e estenda o quadril na vertical. O peso fica apoiado nas escápulas e nos pés.",
+   "Suba o máximo possível e volte controlando o movimento."
+  ]
+ },
+ "Glute_Kickback": {
+  "nome": "Coice de glúteo no solo",
+  "instrucoes": [
+   "Apoie-se de quatro no chão ou no tapete, com as mãos na largura dos ombros e os joelhos formando 90 graus. Olhe para a frente.",
+   "Expirando, eleve a perna direita até a coxa ficar alinhada com as costas, mantendo o joelho a 90 graus.",
+   "Contraia o glúteo durante todo o movimento e segure um segundo no topo, com a coxa paralela ao chão.",
+   "Volte devagar e repita. Depois troque de perna."
+  ]
+ },
+ "Thigh_Abductor": {
+  "nome": "Cadeira abdutora",
+  "instrucoes": [
+   "Sente na máquina abdutora e escolha uma carga confortável.",
+   "Segure nas alças laterais e mantenha o tronco parado.",
+   "Expirando, empurre as pernas para fora, afastando-as uma da outra.",
+   "Sinta a contração por um segundo e volte inspirando.",
+   "Mantenha o tronco firme para evitar lesões."
+  ]
+ },
+ "Thigh_Adductor": {
+  "nome": "Cadeira adutora",
+  "instrucoes": [
+   "Sente na máquina adutora, escolha uma carga confortável e apoie as pernas nas almofadas.",
+   "Segure nas alças laterais e mantenha o tronco parado.",
+   "Expirando, aproxime as pernas uma da outra devagar.",
+   "Sinta a contração por um segundo e volte inspirando.",
+   "Evite movimentos bruscos para não se lesionar."
+  ]
+ },
+ "Monster_Walk": {
+  "nome": "Monster walk com elástico",
+  "instrucoes": [
+   "Coloque um elástico nos tornozelos e outro acima dos joelhos, com tensão quando os pés estão na largura dos ombros.",
+   "Dê passos curtos para a frente, alternando os pés.",
+   "Depois de alguns passos, faça o inverso e ande para trás até o ponto de partida."
+  ]
+ },
+ "Standing_Calf_Raises": {
+  "nome": "Panturrilha em pé na máquina",
+  "instrucoes": [
+   "Ajuste a almofada da máquina à sua altura e apoie os ombros sob as almofadas, com os pés virados para a frente.",
+   "Apoie a ponta dos pés na plataforma, com os calcanhares para fora, e estenda quadril e joelhos até ficar ereto. Mantenha os joelhos levemente flexionados, nunca travados.",
+   "Expirando, eleve os calcanhares o máximo possível e segure um segundo no topo.",
+   "Inspirando, desça devagar até alongar bem a panturrilha.",
+   "Repita. Pode variar a posição dos pés (para a frente, para fora ou para dentro)."
+  ]
+ },
+ "Seated_Calf_Raise": {
+  "nome": "Panturrilha sentado",
+  "instrucoes": [
+   "Sente na máquina e apoie a ponta dos pés na parte baixa da plataforma, com os calcanhares para fora.",
+   "Posicione a parte inferior das coxas sob a almofada e ajuste-a à sua altura. Apoie as mãos sobre ela para não escorregar.",
+   "Levante a alavanca empurrando os calcanhares para cima e solte a trava de segurança.",
+   "Inspirando, desça os calcanhares até alongar bem a panturrilha.",
+   "Expirando, eleve os calcanhares o máximo possível e repita."
+  ]
+ },
+ "Standing_Dumbbell_Calf_Raise": {
+  "nome": "Panturrilha em pé com halteres",
+  "instrucoes": [
+   "Fique em pé com o tronco ereto, segurando um halter em cada mão ao lado do corpo.",
+   "Apoie a ponta dos pés em uma tábua firme de 5 a 7 cm, com os calcanhares no ar.",
+   "Expirando, eleve os calcanhares contraindo a panturrilha e segure um segundo no topo.",
+   "Inspirando, desça devagar. Os pés podem apontar para a frente, para dentro ou para fora para variar a ênfase."
+  ]
+ },
+ "Calf_Press_On_The_Leg_Press_Machine": {
+  "nome": "Panturrilha no leg press",
+  "instrucoes": [
+   "Sente no leg press e apoie os pés na plataforma, na largura dos ombros.",
+   "Solte as travas e estenda as pernas sem travar os joelhos. Se a máquina permitir, mantenha as travas de segurança.",
+   "Posicione apenas a ponta dos pés na parte baixa da plataforma, com os calcanhares para fora.",
+   "Empurre a plataforma com a ponta dos pés, elevando os calcanhares, e segure um segundo.",
+   "Volte devagar, alongando a panturrilha, e repita. Ao terminar, recoloque as travas."
+  ]
+ },
+ "Plank": {
+  "nome": "Prancha",
+  "instrucoes": [
+   "Deite de bruços e apoie o corpo nos antebraços e na ponta dos pés, com os cotovelos sob os ombros.",
+   "Mantenha o corpo reto, da cabeça aos calcanhares, e segure a posição pelo maior tempo possível.",
+   "Para aumentar a dificuldade, eleve um braço ou uma perna."
+  ]
+ },
+ "Side_Bridge": {
+  "nome": "Prancha lateral",
+  "instrucoes": [
+   "Deite de lado e apoie o antebraço no chão, com o cotovelo sob o ombro e as pernas estendidas.",
+   "Eleve o quadril até o corpo formar uma linha reta, da cabeça aos pés.",
+   "Mantenha o abdômen contraído e segure a posição pelo tempo planejado.",
+   "Desça com controle e repita do outro lado."
+  ]
+ },
+ "Crunches": {
+  "nome": "Abdominal supra",
+  "instrucoes": [
+   "Deite de costas com os pés no chão, ou apoiados em um banco com os joelhos a 90 graus.",
+   "Coloque as mãos de leve ao lado da cabeça, com os cotovelos abertos. Não entrelace os dedos atrás da nuca.",
+   "Pressione a lombar contra o chão e eleve os ombros cerca de 10 cm, contraindo o abdômen e expirando.",
+   "Segure um instante e volte devagar, inspirando."
+  ]
+ },
+ "Sit-Up": {
+  "nome": "Abdominal completo",
+  "instrucoes": [
+   "Deite de costas com os joelhos flexionados e os pés presos sob algo firme ou segurados por um parceiro.",
+   "Coloque as mãos atrás da cabeça, com os dedos entrelaçados.",
+   "Eleve o tronco até formar um V com as coxas, expirando.",
+   "Sinta a contração por um segundo e volte devagar, inspirando."
+  ]
+ },
+ "Reverse_Crunch": {
+  "nome": "Abdominal infra no solo",
+  "instrucoes": [
+   "Deite de costas com as pernas estendidas e os braços ao lado do corpo, palmas no chão. Os braços ficam parados o tempo todo.",
+   "Eleve as pernas até as coxas ficarem perpendiculares ao chão, com os pés juntos.",
+   "Inspirando, leve os joelhos em direção ao peito, rolando a pelve para trás e tirando o quadril do chão.",
+   "Segure a contração por um segundo e volte à posição inicial, expirando."
+  ]
+ },
+ "Cross-Body_Crunch": {
+  "nome": "Abdominal cruzado",
+  "instrucoes": [
+   "Deite de costas com os joelhos flexionados e os pés no chão. Coloque as mãos de leve atrás da cabeça.",
+   "Eleve o tronco levando o cotovelo direito e o ombro em direção ao joelho esquerdo, que sobe ao mesmo tempo. Expire.",
+   "Aproxime o ombro do joelho, não só o cotovelo, contraindo o abdômen.",
+   "Volte inspirando e repita com o cotovelo esquerdo e o joelho direito."
+  ]
+ },
+ "Oblique_Crunches_-_On_The_Floor": {
+  "nome": "Abdominal oblíquo no solo",
+  "instrucoes": [
+   "Deite sobre o lado direito, com as pernas empilhadas e os joelhos levemente flexionados.",
+   "Coloque a mão esquerda atrás da cabeça.",
+   "Eleve o cotovelo esquerdo como em um abdominal, enfatizando os oblíquos, e suba o máximo que conseguir.",
+   "Segure a contração por um segundo e desça devagar. Expire ao subir e inspire ao descer. Depois troque de lado."
+  ]
+ },
+ "Russian_Twist": {
+  "nome": "Rotação russa",
+  "instrucoes": [
+   "Sente no chão com os joelhos flexionados e os pés presos sob algo firme ou segurados por um parceiro.",
+   "Incline o tronco para trás, formando um V com as coxas, com os braços estendidos à frente e as mãos unidas.",
+   "Gire o tronco para a direita até os braços ficarem paralelos ao chão, expirando.",
+   "Segure um segundo, volte ao centro e gire para o lado oposto."
+  ]
+ },
+ "Hanging_Leg_Raise": {
+  "nome": "Elevação de pernas na barra fixa",
+  "instrucoes": [
+   "Pendure-se em uma barra fixa com os braços estendidos, pegada aberta ou média.",
+   "Mantenha as pernas estendidas para baixo, com a pelve levemente retraída.",
+   "Expirando, eleve as pernas até formarem 90 graus com o tronco e segure um segundo.",
+   "Desça devagar, inspirando."
+  ]
+ },
+ "Flat_Bench_Lying_Leg_Raise": {
+  "nome": "Elevação de pernas no banco",
+  "instrucoes": [
+   "Deite de costas em um banco reto, com as pernas estendidas para fora da ponta.",
+   "Coloque as mãos sob os glúteos com as palmas para baixo, ou segure nas laterais do banco.",
+   "Expirando, eleve as pernas mantendo-as o mais retas possível até formarem 90 graus com o chão. Segure um segundo.",
+   "Inspirando, desça as pernas devagar até a posição inicial."
+  ]
+ },
+ "Flutter_Kicks": {
+  "nome": "Batida de pernas",
+  "instrucoes": [
+   "Deite de bruços em um banco reto com o quadril na borda, as pernas estendidas e os braços segurando a frente do banco.",
+   "Contraia glúteos e posteriores e estenda as pernas até ficarem alinhadas com o quadril.",
+   "Eleve a perna esquerda acima da direita e depois inverta, alternando como em uma batida de pernas na água.",
+   "Continue pelo número de repetições planejado para cada perna."
+  ]
+ },
+ "Scissor_Kick": {
+  "nome": "Tesoura abdominal",
+  "instrucoes": [
+   "Deite de costas no chão ou em um tapete, com os braços estendidos ao lado do corpo e as palmas para baixo. Os braços ficam parados.",
+   "Com os joelhos levemente flexionados, eleve as pernas até os calcanhares ficarem a cerca de 15 cm do chão.",
+   "Suba a perna esquerda a cerca de 45 graus enquanto a direita desce até 5 cm do chão.",
+   "Troque o movimento entre as pernas, alternando continuamente, sem prender a respiração."
+  ]
+ },
+ "Dead_Bug": {
+  "nome": "Dead bug",
+  "instrucoes": [
+   "Deite de costas com os braços estendidos para o teto e quadris e joelhos flexionados a 90 graus.",
+   "Expire forte para baixar as costelas, achatar as costas no chão e contrair os glúteos. Mantenha essa posição durante todo o exercício.",
+   "Estenda uma perna, esticando joelho e quadril, até ficar logo acima do chão.",
+   "Mantenha a lombar e a pelve estáveis, sem arquear as costas, e volte à posição inicial. Alterne as pernas."
+  ]
+ },
+ "Mountain_Climbers": {
+  "nome": "Escalador (mountain climber)",
+  "instrucoes": [
+   "Comece na posição de flexão, apoiado nas mãos e na ponta dos pés.",
+   "Flexione joelho e quadril e leve uma perna à frente, com o joelho mais ou menos sob o quadril.",
+   "Troque as pernas de forma explosiva, estendendo a perna flexionada e trazendo a outra à frente.",
+   "Continue alternando por 20 a 30 segundos."
+  ]
+ },
+ "Cable_Crunch": {
+  "nome": "Abdominal na polia com corda",
+  "instrucoes": [
+   "Ajoelhe-se de frente para a polia alta com a corda. Segure a corda e leve as mãos para junto do rosto.",
+   "Flexione levemente o quadril, deixando o peso estender a lombar. Essa é a posição inicial.",
+   "Com o quadril parado, flexione o tronco contraindo o abdômen, levando os cotovelos em direção ao meio das coxas. Expire.",
+   "Segure um segundo e volte devagar, inspirando, mantendo tensão constante no abdômen."
+  ]
+ },
+ "Ab_Roller": {
+  "nome": "Roda abdominal",
+  "instrucoes": [
+   "Ajoelhe-se no chão segurando a roda com as duas mãos e apoie-a à sua frente, na posição de quatro apoios.",
+   "Inspirando, role a roda para a frente, esticando o corpo, sem encostar o corpo no chão.",
+   "Faça uma pausa na posição esticada.",
+   "Expirando, puxe o corpo de volta à posição inicial.",
+   "Vá devagar e mantenha o abdômen contraído."
+  ]
+ },
+ "Barbell_Ab_Rollout_-_On_Knees": {
+  "nome": "Roda abdominal com barra",
+  "instrucoes": [
+   "Ajoelhe-se segurando uma barra olímpica com 2 a 5 kg de cada lado e apoie-a no chão à sua frente, na posição de quatro apoios.",
+   "Inspirando, role a barra para a frente, esticando o corpo, sem encostar o corpo no chão.",
+   "Pause um segundo na posição esticada.",
+   "Expirando, puxe o corpo de volta à posição inicial.",
+   "Vá devagar e mantenha o abdômen contraído."
+  ]
+ },
+ "Elbow_to_Knee": {
+  "nome": "Abdominal cotovelo ao joelho",
+  "instrucoes": [
+   "Deite de costas e cruze a perna direita sobre o joelho esquerdo flexionado.",
+   "Una as mãos atrás da cabeça, com as escápulas no chão.",
+   "Flexione a coluna e gire o tronco para levar o cotovelo esquerdo ao joelho direito.",
+   "Volte à posição inicial e repita pelo número de repetições planejado antes de trocar de lado."
+  ]
+ },
+ "Jackknife_Sit-Up": {
+  "nome": "Abdominal canivete",
+  "instrucoes": [
+   "Deite de costas no chão ou em um tapete, com os braços estendidos atrás da cabeça e as pernas estendidas.",
+   "Expirando, flexione o quadril e eleve pernas e braços ao mesmo tempo, até se encontrarem no formato de canivete.",
+   "As pernas ficam estendidas, a cerca de 35 a 45 graus do chão, e os braços paralelos a elas, com o tronco fora do chão.",
+   "Inspirando, desça braços e pernas até a posição inicial."
+  ]
+ },
+ "Pallof_Press": {
+  "nome": "Pallof press",
+  "instrucoes": [
+   "Prenda uma alça simples na torre, de preferência na altura dos ombros (ou use a polia baixa).",
+   "De lado para a polia, segure a alça com as duas mãos e afaste-se até o cabo ficar tenso, a cerca de um braço de distância.",
+   "Com os pés na largura do quadril e joelhos levemente flexionados, segure a alça no meio do peito.",
+   "Estenda os braços à frente, mantendo o abdômen firme, segure um instante e volte.",
+   "Complete as repetições e troque de lado."
+  ]
+ },
+ "Standing_Cable_Wood_Chop": {
+  "nome": "Lenhador na polia",
+  "instrucoes": [
+   "Prenda uma alça simples na torre e coloque o cabo na posição mais alta.",
+   "De lado para a polia, segure a alça com uma mão e afaste-se até o cabo ficar tenso. Com os pés na largura dos ombros, segure a alça também com a outra mão, braços estendidos.",
+   "Em um único movimento, puxe a alça para baixo e em diagonal até o joelho da frente, girando o tronco.",
+   "Volte devagar de forma controlada. Complete as repetições e troque de lado."
+  ]
+ },
+ "Air_Bike": {
+  "nome": "Abdominal bicicleta",
+  "instrucoes": [
+   "Deite de costas com a lombar no chão e as mãos ao lado da cabeça, sem forçar o pescoço.",
+   "Eleve os ombros na posição de abdominal e leve os joelhos a 90 graus, com as canelas paralelas ao chão.",
+   "Faça um movimento de pedalada: estenda a perna direita e traga o joelho esquerdo, aproximando o cotovelo direito do joelho esquerdo.",
+   "Alterne os lados de forma contínua e controlada."
+  ]
+ },
+ "Box_Jump_Multiple_Response": {
+  "nome": "Salto no caixote em sequência",
+  "instrucoes": [
+   "Fique de frente para o caixote, a um braço de distância, com os braços ao lado do corpo e as pernas levemente flexionadas.",
+   "Usando os braços para o impulso, salte para cima e para a frente, aterrissando com os dois pés ao mesmo tempo sobre o caixote.",
+   "Desça ou salte de volta ao ponto de partida imediatamente e repita a sequência."
+  ]
+ },
+ "Front_Box_Jump": {
+  "nome": "Salto no caixote",
+  "instrucoes": [
+   "Posicione um caixote de altura adequada de 30 a 60 cm à sua frente, com os pés na largura dos ombros.",
+   "Faça um agachamento curto jogando os braços para trás.",
+   "Salte o mais alto possível, estendendo quadril, joelhos e tornozelos, e jogue os braços para a frente e para cima.",
+   "Aterrisse sobre o caixote com os joelhos flexionados, amortecendo o impacto.",
+   "De preferência, desça um pé de cada vez."
+  ]
+ },
+ "Knee_Tuck_Jump": {
+  "nome": "Salto com joelhos ao peito",
+  "instrucoes": [
+   "Fique em pé com os joelhos levemente flexionados e as mãos à frente, palmas para baixo, na altura do peito.",
+   "Faça um quarto de agachamento e salte de forma explosiva.",
+   "Leve os joelhos ao peito, tentando tocar as palmas das mãos, e salte o mais alto possível.",
+   "Estenda as pernas antes de aterrissar e amorteça o impacto flexionando os joelhos."
+  ]
+ },
+ "Star_Jump": {
+  "nome": "Salto estrela",
+  "instrucoes": [
+   "Fique com os pés na largura dos ombros e os braços junto ao corpo.",
+   "Agache até a metade e salte de forma explosiva o mais alto possível.",
+   "No ar, estenda o corpo todo, abrindo pernas e braços.",
+   "Ao aterrissar, junte braços e pernas e amorteça o impacto com as pernas."
+  ]
+ },
+ "Rope_Jumping": {
+  "nome": "Pular corda",
+  "instrucoes": [
+   "Segure uma ponta da corda em cada mão, com a corda atrás de você no chão.",
+   "Eleve os braços e gire a corda sobre a cabeça, trazendo-a para a frente.",
+   "Quando ela chegar ao chão, salte sobre ela.",
+   "Encontre um ritmo que consiga manter. Pode variar velocidade e técnica."
+  ]
+ },
+ "Fast_Skipping": {
+  "nome": "Skipping rápido",
+  "instrucoes": [
+   "Comece relaxado, com uma perna levemente à frente.",
+   "Faça saltitos alternados, com o padrão passo e salto: direita-direita, esquerda-esquerda, e assim por diante.",
+   "Para o skipping rápido, mantenha contato próximo com o chão, reduza o tempo no ar e vá o mais rápido possível."
+  ]
+ },
+ "Skating": {
+  "nome": "Patinação",
+  "instrucoes": [
+   "Patine em ritmo confortável por cerca de 30 minutos. Exige equilíbrio e coordenação.",
+   "Aprenda o básico, incluindo fazer curvas e parar, e use equipamento de proteção para evitar lesões.",
+   "Para um desafio cardiovascular, faça intervalos: patine rápido por 2 minutos a cada 5 e use os outros 3 para recuperar."
+  ]
+ },
+ "Battling_Ropes": {
+  "nome": "Corda naval (battle rope)",
+  "instrucoes": [
+   "Use uma corda pesada presa pelo meio a 5 ou 6 metros de distância.",
+   "Fique de frente para a corda, com uma ponta em cada mão e os braços estendidos ao lado do corpo.",
+   "Eleve um braço até a altura dos ombros o mais rápido possível, depois deixe-o cair enquanto eleva o outro.",
+   "Continue alternando os braços, batendo as cordas para cima e para baixo o mais rápido que conseguir."
+  ]
+ },
+ "One-Arm_Kettlebell_Swings": {
+  "nome": "Swing com kettlebell unilateral",
+  "instrucoes": [
+   "Fique com os pés um pouco mais afastados que os ombros e segure o kettlebell com uma mão, à frente das pernas.",
+   "Flexione o quadril levando-o para trás, com as costas retas, e balance o kettlebell entre as pernas.",
+   "Estenda o quadril com força, impulsionando o kettlebell até a altura dos ombros. O movimento vem do quadril, não dos braços.",
+   "Deixe-o descer e repita. Depois troque de braço."
+  ]
+ },
+ "Kettlebell_Thruster": {
+  "nome": "Thruster com kettlebell",
+  "instrucoes": [
+   "Leve dois kettlebells aos ombros, estendendo pernas e quadril e girando os punhos. Essa é a posição inicial.",
+   "Agache flexionando quadril e joelhos, mantendo o tronco ereto e as costas retas, descendo o máximo que conseguir.",
+   "Na base, inverta o movimento, empurrando pelos calcanhares e estendendo joelhos e quadril.",
+   "Aproveitando o impulso, estenda os braços e empurre os dois kettlebells acima da cabeça.",
+   "Volte os kettlebells aos ombros e repita."
+  ]
+ },
+ "Overhead_Slam": {
+  "nome": "Arremesso de medicine ball no chão (slam)",
+  "instrucoes": [
+   "Fique com os pés na largura dos ombros, segurando uma medicine ball com as duas mãos.",
+   "Eleve a bola acima da cabeça, estendendo o corpo todo.",
+   "Inverta o movimento e arremesse a bola no chão, à sua frente, com a maior força possível.",
+   "Receba a bola com as duas mãos no quique e repita."
+  ]
+ },
+ "Sledgehammer_Swings": {
+  "nome": "Marretada no pneu",
+  "instrucoes": [
+   "Use um pneu e uma marreta. Fique a cerca de 60 cm do pneu, com um pé à frente do outro.",
+   "Segure a marreta: para destros, a mão esquerda na ponta do cabo e a direita mais perto da cabeça.",
+   "Ao subir a marreta, a mão direita desliza até a cabeça. Ao descer, ela desliza até juntar com a esquerda.",
+   "Bata no pneu com o máximo de força e controle o rebote. Repita do outro lado."
+  ]
+ },
+ "Inchworm": {
+  "nome": "Inchworm (caminhada com as mãos)",
+  "instrucoes": [
+   "Fique em pé com os pés juntos.",
+   "Com as pernas retas, incline-se e apoie as mãos no chão à sua frente.",
+   "Ande com as mãos para a frente, alternando esquerda e direita, flexionando só o quadril, até ficar na posição de flexão.",
+   "Mantendo as mãos no lugar, dê passos curtos com os pés, poucos centímetros por vez, até ficarem junto das mãos, mantendo as pernas retas."
+  ]
+ },
+ "Running_Treadmill": {
+  "nome": "Corrida na esteira",
+  "instrucoes": [
+   "Suba na esteira e escolha a opção no menu: manual ou um programa. Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Ajuste a inclinação para mudar a intensidade.",
+   "Mantenha boa postura ao correr e segure nas barras apenas se necessário."
+  ]
+ },
+ "Walking_Treadmill": {
+  "nome": "Caminhada na esteira",
+  "instrucoes": [
+   "Suba na esteira e escolha a opção no menu: manual ou um programa. Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Ajuste a inclinação para mudar a intensidade.",
+   "Caminhe em ritmo moderado a rápido, não em passo lento, com boa postura."
+  ]
+ },
+ "Jogging_Treadmill": {
+  "nome": "Trote na esteira",
+  "instrucoes": [
+   "Suba na esteira e escolha a opção no menu: manual ou um programa. Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Ajuste a inclinação para mudar a intensidade.",
+   "Mantenha boa postura ao trotar e segure nas barras apenas se necessário."
+  ]
+ },
+ "Bicycling_Stationary": {
+  "nome": "Bicicleta ergométrica",
+  "instrucoes": [
+   "Sente na bicicleta e ajuste o banco à sua altura.",
+   "Escolha a opção no menu; pode ser preciso começar a pedalar para ligar. Use o modo manual ou um programa.",
+   "Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Ajuste a resistência durante o treino. As alças podem monitorar os batimentos para manter a intensidade adequada."
+  ]
+ },
+ "Elliptical_Trainer": {
+  "nome": "Elíptico",
+  "instrucoes": [
+   "Suba no elíptico e escolha a opção no menu: manual ou um programa.",
+   "Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Ajuste a inclinação para mudar a intensidade.",
+   "As alças podem monitorar os batimentos para manter a intensidade adequada."
+  ]
+ },
+ "Rowing_Stationary": {
+  "nome": "Remo ergômetro",
+  "instrucoes": [
+   "Sente no remo com os calcanhares apoiados na base dos pedais e os pés presos pelas tiras. Escolha o programa, se houver.",
+   "Sente com a coluna ereta e incline-se à frente a partir do quadril.",
+   "Fase 1: deslize para a frente, com os joelhos flexionados junto ao peito e o tronco levemente inclinado, com boa postura.",
+   "Fase 2: empurre os pedais estendendo as pernas e leve as mãos à parte alta do abdômen.",
+   "Fase 3: volte com controle à posição inicial e repita no ritmo escolhido."
+  ]
+ },
+ "Stairmaster": {
+  "nome": "Escada (simulador)",
+  "instrucoes": [
+   "Suba no simulador de escada e escolha a opção no menu: manual ou um programa.",
+   "Normalmente é possível informar idade e peso para estimar as calorias gastas.",
+   "Movimente as pernas para cima e para baixo em ritmo constante, empurrando os pedais para baixo sem chegar até o chão.",
+   "Mantenha as mãos nas alças para não cair. Elas também podem monitorar os batimentos."
+  ]
+ },
+ "Childs_Pose": {
+  "nome": "Postura da criança",
+  "instrucoes": [
+   "Apoie-se de quatro e caminhe com as mãos para a frente.",
+   "Sente sobre os calcanhares, deixando os braços deslizarem pelo chão para alongar toda a coluna.",
+   "Aproxime as mãos dos pés, relaxe e respire direcionando o ar para as costas. Apoie a testa no chão.",
+   "Evite essa posição se tiver problemas nos joelhos."
+  ]
+ },
+ "Cat_Stretch": {
+  "nome": "Alongamento do gato",
+  "instrucoes": [
+   "Apoie-se de quatro no chão.",
+   "Puxe a barriga para dentro e arredonde a coluna, a lombar, os ombros e o pescoço, deixando a cabeça cair.",
+   "Segure por 15 segundos."
+  ]
+ },
+ "Worlds_Greatest_Stretch": {
+  "nome": "O melhor alongamento do mundo",
+  "instrucoes": [
+   "Dê um passo à frente em afundo, com o pé da frente apoiado inteiro e o de trás na ponta. Desça até o joelho de trás quase tocar o chão, com o tronco ereto, e segure de 10 a 20 segundos.",
+   "Apoie no chão a mão do mesmo lado da perna da frente, com o cotovelo junto ao pé. A outra mão apoia ao lado da perna da frente. Segure de 10 a 20 segundos.",
+   "Coloque as duas mãos ao lado do pé da frente e eleve a ponta desse pé, alongando a parte de trás da perna.",
+   "Faça o mesmo do outro lado."
+  ]
+ },
+ "Hamstring_Stretch": {
+  "nome": "Alongamento de posterior de coxa",
+  "instrucoes": [
+   "Deite de costas com uma perna estendida para cima, o quadril a 90 graus, e a outra perna no chão.",
+   "Passe uma faixa, elástico ou corda na planta do pé.",
+   "Puxe a faixa para criar tensão na panturrilha e no posterior da coxa.",
+   "Segure de 10 a 30 segundos e repita com a outra perna."
+  ]
+ },
+ "Quad_Stretch": {
+  "nome": "Alongamento de quadríceps",
+  "instrucoes": [
+   "Deite de lado e passe uma faixa, corda ou elástico no pé de cima.",
+   "Flexione o joelho e estenda o quadril, tentando tocar o glúteo com o pé, segurando a faixa com as mãos.",
+   "Com a faixa sobre o ombro ou acima da cabeça, puxe com suavidade para aumentar o alongamento.",
+   "Segure de 10 a 20 segundos e troque de lado."
+  ]
+ },
+ "Kneeling_Hip_Flexor": {
+  "nome": "Alongamento de flexor do quadril ajoelhado",
+  "instrucoes": [
+   "Ajoelhe-se em um tapete e leve o joelho direito à frente, com a planta do pé no chão. Estenda a perna esquerda para trás, com o peito do pé no chão.",
+   "Desloque o peso do corpo para a frente até sentir o alongamento no quadril.",
+   "Segure por 15 segundos e repita do outro lado."
+  ]
+ },
+ "Calf_Stretch_Hands_Against_Wall": {
+  "nome": "Alongamento de panturrilha na parede",
+  "instrucoes": [
+   "Fique de frente para uma parede, a alguns passos de distância, com um pé à frente do outro.",
+   "Incline-se e apoie as mãos na parede, mantendo calcanhar, quadril e cabeça alinhados.",
+   "Tente manter o calcanhar de trás no chão.",
+   "Segure de 10 a 20 segundos e troque de lado."
+  ]
+ },
+ "Shoulder_Stretch": {
+  "nome": "Alongamento de ombro",
+  "instrucoes": [
+   "Leve o braço esquerdo para o outro lado do corpo, mantendo-o esticado.",
+   "Segure-o com o outro braço, puxando-o junto ao peito, e mantenha o alongamento.",
+   "Depois troque de braço."
+  ]
+ },
+ "Triceps_Stretch": {
+  "nome": "Alongamento de tríceps",
+  "instrucoes": [
+   "Leve a mão para trás da cabeça, segure o cotovelo e puxe com suavidade.",
+   "Segure de 10 a 20 segundos e troque de lado."
+  ]
+ },
+ "Chest_And_Front_Of_Shoulder_Stretch": {
+  "nome": "Alongamento de peito e ombro com bastão",
+  "instrucoes": [
+   "Fique em pé com as pernas juntas, segurando um bastão ou cabo de vassoura.",
+   "Segure o bastão com pegada pouco mais larga que os ombros, palmas para baixo, à frente do corpo.",
+   "Eleve o bastão com cuidado, levando-o para trás da cabeça."
+  ]
+ },
+ "Spinal_Stretch": {
+  "nome": "Alongamento de coluna sentado",
+  "instrucoes": [
+   "Sente em uma cadeira com as costas retas e os pés apoiados no chão.",
+   "Entrelace os dedos atrás da cabeça, com os cotovelos abertos e o queixo baixo.",
+   "Gire o tronco para um lado, o máximo que conseguir, cerca de 3 vezes.",
+   "Depois incline-se à frente e gire para levar o cotovelo em direção ao chão, por dentro do joelho.",
+   "Volte à posição ereta e repita do outro lado."
+  ]
+ },
+ "Arm_Circles": {
+  "nome": "Círculos com os braços",
+  "instrucoes": [
+   "Fique em pé com os braços estendidos para os lados, paralelos ao chão.",
+   "Faça círculos pequenos, de cerca de 30 cm de diâmetro, com os dois braços, devagar. Respire normalmente.",
+   "Continue por cerca de 10 segundos e depois inverta o sentido."
+  ]
+ },
+ "Hip_Circles_prone": {
+  "nome": "Círculos de quadril de quatro apoios",
+  "instrucoes": [
+   "Apoie-se de quatro no chão, com boa postura.",
+   "Eleve um joelho flexionado do chão.",
+   "Mantendo o joelho flexionado, gire a coxa em arco, fazendo um círculo grande com o joelho.",
+   "Faça devagar pelo número de repetições planejado e repita do outro lado."
+  ]
+ },
+ "Standing_Hip_Circles": {
+  "nome": "Círculos de quadril em pé",
+  "instrucoes": [
+   "Fique em pé sobre uma perna, apoiando-se em um suporte vertical.",
+   "Eleve o joelho da perna livre a 90 graus.",
+   "Abra o quadril o máximo possível, fazendo um círculo grande com o joelho.",
+   "Faça devagar pelo número de repetições planejado e repita do outro lado."
+  ]
+ },
+ "Dynamic_Chest_Stretch": {
+  "nome": "Alongamento dinâmico de peito",
+  "instrucoes": [
+   "Fique em pé com as mãos juntas e os braços estendidos à frente.",
+   "Mantendo os braços retos, abra-os rapidamente para trás o máximo possível e volte, como uma palma exagerada.",
+   "Repita de 5 a 10 vezes, aumentando a velocidade aos poucos."
+  ]
+ },
+ "Lying_Glute": {
+  "nome": "Alongamento de glúteo deitado com parceiro",
+  "instrucoes": [
+   "Deite de costas com um parceiro ajoelhado ao seu lado.",
+   "Flexione o quadril de uma perna, elevando-a do chão, e gire-a de modo que o pé fique sobre o quadril oposto e a canela perpendicular ao corpo. O parceiro segura o joelho e o tornozelo.",
+   "Tente empurrar a perna em direção ao parceiro, que impede o movimento, por 10 a 20 segundos.",
+   "Relaxe por completo enquanto o parceiro empurra com suavidade o tornozelo e o joelho em direção ao seu peito.",
+   "Avise o parceiro quando o alongamento for suficiente, para evitar lesão."
+  ]
+ }
+}
