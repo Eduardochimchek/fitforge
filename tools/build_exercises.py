@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data-src"
 OUT = ROOT / "app" / "src" / "main" / "assets" / "exercises.json"
 
-SEED_VERSION = 1
+SEED_VERSION = 2
 IMG_BASE = "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/"
 
 EQUIP = {

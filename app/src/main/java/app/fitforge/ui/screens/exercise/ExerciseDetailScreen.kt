@@ -41,6 +41,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
@@ -103,15 +104,25 @@ fun ExerciseDetailScreen(
                 .navigationBarsPadding()
                 .padding(bottom = 96.dp),
         ) {
-            ExerciseImage(
-                images = ex.images,
-                category = ex.category,
-                iconSize = 72.dp,
-                modifier = Modifier
+            Box(
+                Modifier
                     .fillMaxWidth()
                     .aspectRatio(1.1f)
                     .clip(RoundedCornerShape(bottomStart = 32.dp, bottomEnd = 32.dp)),
-            )
+            ) {
+                ExerciseImage(
+                    images = ex.images,
+                    category = ex.category,
+                    iconSize = 72.dp,
+                    modifier = Modifier.fillMaxSize(),
+                )
+                Box(
+                    Modifier
+                        .fillMaxWidth()
+                        .height(140.dp)
+                        .background(Brush.verticalGradient(listOf(Color.Black.copy(alpha = 0.45f), Color.Transparent))),
+                )
+            }
             Column(Modifier.padding(horizontal = 20.dp)) {
                 Spacer(Modifier.height(20.dp))
                 Text(ex.name, style = MaterialTheme.typography.headlineMedium)

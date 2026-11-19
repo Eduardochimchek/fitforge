@@ -5,7 +5,7 @@ import androidx.compose.animation.core.tween
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.size
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
@@ -50,7 +50,7 @@ fun ExerciseImage(
             }
         }
     }
-    val bg = Color.White
+    val bg = if (images.isEmpty()) MaterialTheme.colorScheme.surfaceContainerHigh else Color.White
     Box(modifier.background(bg), contentAlignment = Alignment.Center) {
         if (images.isEmpty()) {
             Placeholder(category, iconSize)
@@ -77,14 +77,14 @@ private fun Placeholder(category: Category, iconSize: Dp, loading: Boolean = fal
     Box(
         Modifier
             .fillMaxSize()
-            .background(Brush.linearGradient(listOf(c.copy(alpha = 0.35f), c.copy(alpha = 0.08f)))),
+            .background(Brush.linearGradient(listOf(c.copy(alpha = 0.28f), c.copy(alpha = 0.06f)))),
         contentAlignment = Alignment.Center,
     ) {
         Icon(
             category.icon,
             contentDescription = null,
             tint = c.copy(alpha = if (loading) 0.4f else 0.9f),
-            modifier = Modifier.fillMaxWidth(0.4f),
+            modifier = Modifier.size(iconSize),
         )
     }
 }

@@ -47,6 +47,8 @@ class ExerciseSeeder @Inject constructor(
         if (current >= file.versao && dao.builtInCount() > 0) return@withContext
         val favorites = dao.favoriteIds().toSet()
         dao.insertAll(file.exercicios.map { it.toEntity(it.id in favorites) })
+        val keep = file.exercicios.mapTo(HashSet()) { it.id }
+        dao.builtInIds().filterNot { it in keep }.chunked(500).forEach { dao.deleteBuiltIn(it) }
         prefs.setSeedVersion(file.versao)
     }
 

@@ -24,6 +24,12 @@ interface ExerciseDao {
     @Query("SELECT id FROM exercises WHERE favorite = 1")
     suspend fun favoriteIds(): List<String>
 
+    @Query("SELECT id FROM exercises WHERE custom = 0")
+    suspend fun builtInIds(): List<String>
+
+    @Query("DELETE FROM exercises WHERE id IN (:ids) AND custom = 0")
+    suspend fun deleteBuiltIn(ids: List<String>)
+
     @Query("SELECT COUNT(*) FROM exercises WHERE custom = 0")
     suspend fun builtInCount(): Int
 

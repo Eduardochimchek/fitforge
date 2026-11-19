@@ -350,29 +350,6 @@
   "dica": "Erro comum: usar impulso; faça a versão com joelhos dobrados (tuck-up) para começar."
  },
  {
-  "id": "x_abdominal_bicicleta",
-  "nome": "Abdominal bicicleta",
-  "nomeEn": "Bicycle Crunch",
-  "categoria": "calistenia",
-  "nivel": "iniciante",
-  "equipamento": "colchonete",
-  "musculosPrincipais": [
-   "abdominals"
-  ],
-  "musculosSecundarios": [
-   "adductors",
-   "quadriceps"
-  ],
-  "porTempo": false,
-  "instrucoes": [
-   "Deite de barriga para cima, com as mãos atrás da cabeça e as pernas elevadas.",
-   "Leve um cotovelo em direção ao joelho oposto, estendendo a outra perna.",
-   "Alterne os lados em movimento contínuo de pedalada.",
-   "Gire o tronco, não apenas os cotovelos, e não puxe o pescoço."
-  ],
-  "dica": "Movimento lento e controlado funciona melhor do que rápido."
- },
- {
   "id": "x_toe_touch",
   "nome": "Abdominal toque nos pés",
   "nomeEn": "Toe Touch Crunch",

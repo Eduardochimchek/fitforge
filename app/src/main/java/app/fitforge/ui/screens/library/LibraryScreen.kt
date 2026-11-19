@@ -77,7 +77,6 @@ import app.fitforge.domain.model.Equipment
 import app.fitforge.domain.model.Exercise
 import app.fitforge.domain.model.Level
 import app.fitforge.domain.model.Muscle
-import app.fitforge.domain.model.MuscleGroup
 import app.fitforge.domain.model.Place
 import app.fitforge.domain.model.muscleLabel
 import app.fitforge.ui.components.EmptyState
@@ -187,7 +186,7 @@ private fun SearchField(value: String, onChange: (String) -> Unit) {
     TextField(
         value = value,
         onValueChange = onChange,
-        placeholder = { Text("Buscar por nome, músculo, equipamento…") },
+        placeholder = { Text("Buscar exercício ou músculo", maxLines = 1) },
         leadingIcon = { Icon(Icons.Rounded.Search, null) },
         trailingIcon = {
             AnimatedVisibility(value.isNotEmpty(), enter = scaleIn() + fadeIn(), exit = scaleOut() + fadeOut()) {
@@ -307,8 +306,8 @@ fun ExerciseRow(
             Spacer(Modifier.height(6.dp))
             Row(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalAlignment = Alignment.CenterVertically) {
                 Tag(e.category.label, color = catColor, filled = true)
-                e.primaryMuscles.firstOrNull()?.let { Tag(muscleLabel(it)) }
                 LevelBars(e.level.bars, color = catColor)
+                e.primaryMuscles.firstOrNull()?.let { Tag(muscleLabel(it), modifier = Modifier.weight(1f, fill = false)) }
             }
         }
         if (trailing != null) trailing()
@@ -369,11 +368,9 @@ private fun FilterSheet(
                     )
                 }
             }
-            MuscleGroup.entries.forEach { g ->
-                SheetSection("Músculo · ${g.label}") {
-                    Muscle.entries.filter { it.group == g }.forEach { m ->
-                        SelectChip(m.label, m in filters.muscles, { onUpdate { it.copy(muscles = it.muscles.toggle(m)) } })
-                    }
+            SheetSection("Músculo") {
+                Muscle.entries.sortedBy { it.group.ordinal }.forEach { m ->
+                    SelectChip(m.label, m in filters.muscles, { onUpdate { it.copy(muscles = it.muscles.toggle(m)) } })
                 }
             }
             SheetSection("Equipamento") {

@@ -110,6 +110,7 @@ class LibraryViewModel @Inject constructor(
         return list.sortedWith(
             compareByDescending<Exercise> { normalize(it.name).startsWith(first) }
                 .thenByDescending { it.translated }
+                .thenByDescending { it.images.isNotEmpty() }
                 .thenBy { it.name.length },
         )
     }

@@ -74,7 +74,14 @@ fun Tag(
         horizontalArrangement = Arrangement.spacedBy(4.dp),
     ) {
         if (icon != null) Icon(icon, null, tint = color, modifier = Modifier.size(13.dp))
-        Text(label, style = MaterialTheme.typography.labelSmall, color = color)
+        Text(
+            label,
+            style = MaterialTheme.typography.labelSmall,
+            color = color,
+            maxLines = 1,
+            softWrap = false,
+            overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis,
+        )
     }
 }
 
